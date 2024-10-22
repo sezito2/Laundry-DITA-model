@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_laundry_icons">
+  <title>Laundry Icons</title>
+  <shortdesc>
+
+  </shortdesc>
+  <refbody>
+    <table>
+      <title>Machine Wash</title>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Icon</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <image href="machine-wash.png" alt="Machine Wash symbol"/>
+            </entry>
+            <entry>Machine wash</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="cold-water.png" alt="Cold water icon"/>
+              <image href="cold-water-dot.png" alt="Cold water icon"/>
+            </entry>
+            <entry>Wash with cold water</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="warm-water.png" alt="Warm water icon"/>
+              <image href="warm-water-dot.png" alt="Warm water icon"/>
+            </entry>
+            <entry>Wash with warm water</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="hot-water.png" alt="Hot water icon"/>
+              <image href="hot-water-dot.png" alt="Hot water icon"/>
+            </entry>
+            <entry>Wash with hot water</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="gentle-cycle.png" alt="Gentle cycle icon"/>
+            </entry>
+            <entry>Wash on a gentle cycle</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table>
+      <title>Wash</title>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Icon</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <image href="do-not-wash.png" alt="Do Not wash symbol"/>
+            </entry>
+            <entry>Do not wash</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
