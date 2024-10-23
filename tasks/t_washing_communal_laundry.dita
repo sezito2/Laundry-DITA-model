@@ -2,14 +2,11 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_washing_communal_laundry">
   <title>Washing Clothes in University Laundry Machines</title>
-  <shortdesc>University Housing offers all residents living on campus to free laundry facilities.</shortdesc>
+  <shortdesc>University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines</shortdesc>
   <taskbody>
     <prereq>
-      <p>Residents must provide their own detergents, dryers sheets, and other cleaning agents.</p>
+      <p>Residents must provide their own detergents, fabric softeners, bleach, and other cleaning agents.</p>
     </prereq>
-    <section>
-      <title>Washing your Clothes</title>
-    </section>
     <steps>
       <step>
         <cmd>Load dirty clothes into the washing machine drum.</cmd>
