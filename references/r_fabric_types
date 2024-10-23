@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_fabric_types">
+  <title>Fabric types</title>
+  <shortdesc> This reference topic provides descriptions of common fabric types, their characteristics, and suggested washing ways.
+  </shortdesc>
+
+  <table>
+        <title>Fabric Types and Characteristics</title>
+        <tgroup cols="2">
+          <thead>
+            <row>
+              <entry>Fabric Type</entry>
+              <entry>Description</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Cotton</entry>
+              <entry>
+                Cotton is a natural fiber that is soft, breathable, and widely used in clothing, home textiles, and linens. It is known for its comfort and absorbency.
+              </entry>
+            </row>
+            <row>
+              <entry>Wool</entry>
+              <entry>
+                Wool is a natural fiber obtained from sheep and other animals. It is warm, insulating, and commonly used in sweaters, coats, and cold-weather gear.
+              </entry>
+            </row>
+            <row>
+              <entry>Silk</entry>
+              <entry>
+                Silk is a luxurious natural fiber known for its smooth texture and sheen. It is often used in fine clothing, scarves, and bedding.
+              </entry>
+            </row>
+            <row>
+              <entry>Polyester</entry>
+              <entry>
+                Polyester is a synthetic fabric that is durable, wrinkle-resistant, and easy to care for. It is often used in activewear, outerwear, and home textiles.
+              </entry>
+            </row>
+            <row>
+              <entry>Linen</entry>
+              <entry>
+                Linen is a natural fiber made from flax plants. It is cool, breathable, and typically used in summer clothing, tablecloths, and napkins.
+              </entry>
+            </row>
+            <row>
+              <entry>Denim</entry>
+              <entry>
+                Denim is a sturdy cotton twill fabric commonly used in jeans, jackets, and other durable clothing. It is known for its ruggedness and classic style.
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+  </refbody>
+</reference>
+     
+
+
+  </refbody>
+</reference>
