@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_drying_communal_laundry">
+  <title>Drying Clothes in University Laundry Machines</title>
+  <shortdesc>University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines</shortdesc>
+  <taskbody>
+    <prereq>
+      <p>Residents must provide their own dryer sheets or wool balls if desired.</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Load wet clothes into the dryer drum.</cmd>
+        <info>Alert: check the lint trap to ensure it is clean.</info>
+        <choices>
+          <choice>Optional: separate clothes based on color and/or fabric type.</choice>
+        </choices>
+      </step>
+      <step>
+        <cmd>Close the dryer door.</cmd>
+      </step>
+      <step>
+        <cmd>Select the desired mode with the correct control panel</cmd>
+        <info>The right panel controls the bottom dryer and the left panel controls the top dryer.</info>
+      </step>
+      <step>
+        <cmd>Press start.</cmd>
+      </step>
+    </steps>
+    <postreq>
+      <p>Residents are encouraged to set a timer to keep track of time remaining on the machine. Remove all laundry promptly to allow others to use the machine.</p>
+      <p>Alert: Clean the lint trap when the cycle is finished to reduce the risk of fire.</p>
+    </postreq>
+  </taskbody>
+</task>
