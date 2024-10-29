@@ -7,6 +7,10 @@ This repo contains a DITA topic model (TM) related to [enter main goal and topic
 - Polina Nekrasova
 - Sami Zito
 
+## Map Outline
+
+
+
 ## Folders &amp; Files
 
 - `.github`: Contains configuration files for "Github Actions".
