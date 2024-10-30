@@ -18,7 +18,7 @@
           </row>
         </thead>
         <tbody>
-          <!-- <row>
+          <row>
             <entry>Linen</entry>
             <entry>
               Made from flax fibers, linen is a lightweight, breathable fabric known for its natural texture and durability. It is often used in summer clothing and home textiles due to its moisture-wicking properties.</entry>
@@ -35,7 +35,7 @@
             <entry>
               <image href="assets/images/linen.jpg" alt="Linen fabric"/>
             </entry>
-          </row> -->
+          </row>
           <row>
             <entry>Silk</entry>
             <entry>
