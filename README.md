@@ -35,7 +35,12 @@ Marina is a second-year student moving into her apartment at NC State. Her apart
 
 Will is a second-year student who has done his own laundry before, both at home and in the dormitory laundry rooms. He has moved to an aprtment off campus and is wondering how he can improve the effciency of his laundry routine in order to save money.
 
-
+1. t_how_to_remove_stains
+   1. c_importance_of_sorting_clothes
+   2. c_saving_money_doing_laundry
+   3. r_laundry_icons_wash
+   4. r_laundry_icons_dry
+   5. r_fabric_types
 
 ## Folders &amp; Files
 
