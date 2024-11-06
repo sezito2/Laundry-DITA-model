@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_fabric_types">
+  <title>Fabric Types</title>
+  <shortdesc>
+    Knowing fabric types is key to proper laundry care, as different materials require specific washing and drying methods to maintain their quality and longevity. This guide to various fabric types includes their characteristics and recommended washing techniques for optimal care.
+  </shortdesc>
+  <refbody>
+    <table>
+      <title>Fabric types and descriptions</title>
+      <tgroup cols="4">
+        <thead>
+          <row>
+            <entry>Fabric</entry>
+            <entry>Description</entry>
+            <entry>Washing Recommendations</entry>
+            <entry>Image</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Linen</entry>
+            <entry>Made from flax fibers, linen is a lightweight, breathable fabric known for its natural texture and durability. It is often used in summer clothing and home textiles due to its moisture-wicking properties.</entry>
+            <entry>
+              To maintain its quality, follow these recommendations:
+             <ul>
+                <li>Use Cold water: Wash in cold to lukewarm water (preferably under 40°C or 104°F) to prevent shrinkage.</li>
+                <li>Select a gentle cycle: Start a gentle or delicate cycle to reduce friction.</li>
+                <li>Avoid overloading the machine: Wash linen separately or with lightweight fabrics.</li>
+                <li>Use mild detergent and avoid bleach.</li>
+                <li>Air dry or tumble dry on low: Air dry if possible, or use a low heat setting in the dryer.</li>
+                </ul>
+            </entry>
+            <entry>
+              <image href="assets/images/linen.jpg" alt="Linen fabric"/>
+            </entry>
+            </row>
+          <row>
+            <entry>Silk</entry>
+            <entry>
+              A luxurious, soft fabric made from the fibers of silkworm cocoons, silk has a natural sheen and is known for its smooth texture.
+            </entry>
+             <entry>
+            To maintain its quality and appearance you need follow these recommendations for washing silk. 
+             <ul>
+                <li>Hand wash in cold water: Silk is delicate and best washed by hand in cold water. If you must machine wash, use a mesh bag and select a delicate cycle with cold water.</li>
+                <li>Use a gentle, silk-safe detergent: Choose a detergent specifically formulated for silk or other delicates. Regular detergents can be too harsh and damage the fibers.</li>
+                <li>Avoid soaking: Silk fibers can weaken if soaked for too long.</li>
+                <li>Do not wring: After washing, gently press the water out without wringing or twisting the fabric, which can damage the fibers.</li>
+                <li>Air dry in shade: Lay silk items flat on a towel or hang them to dry out of direct sunlight, as UV rays can cause discoloration.</li>
+                <li>Avoid direct heat for ironing: If needed, use a low-heat setting on your iron with a pressing cloth on top to prevent damage, or use the steam function on a low setting while the fabric is slightly damp.</li>
+              </ul>
+            </entry>
+            <entry>
+              <image href="assets/images/silk.jpg" alt="Silk fabric"/>
+            </entry>
+          </row>
+          <row>
+            <entry>Cotton</entry>
+            <entry>
+              Cotton is a soft and breathable fabric made from the fibers of the cotton plant. It is widely used in casual clothing due to its comfort and durability.
+            </entry>
+            <entry>
+            To maintain its quality and appearance you need follow these recommendations for washing cotton. 
+             <ul>
+             <li>Use warm or cold water: Cotton can generally withstand warm water, but cold water is gentler and helps prevent shrinking and fading, especially for colored items.</li>
+              <li>Select a normal cycle: Cotton is a durable fabric, so a regular or normal wash cycle is suitable. For delicate cotton items, consider using a gentle cycle.</li>
+              <li>Use a mild detergent: A standard laundry detergent works well for cotton, but a mild detergent is recommended for delicate or baby items.</li>
+              <li>Avoid overloading the machine: Cotton absorbs water, so avoid overloading the washer to ensure thorough cleaning and rinsing.</li>
+              <li>Tumble dry on low or medium heat: Cotton can shrink in high heat, so use a low or medium heat setting when tumble drying, or air dry to maintain the fabric’s size and shape.</li>
+              </ul>
+            </entry>
+            <entry>
+              <image href="assets/images/cotton.jpg" alt="Cotton fabric"/>
+            </entry>
+          </row>
+          <row>
+            <entry>Cashmere</entry>
+            <entry>
+              Cashmere is a high-quality wool derived from the undercoat of cashmere goats. Known for its softness, warmth, and lightweight properties, cashmere is often used in luxury garments like sweaters and scarves.
+            </entry>
+            <entry>
+              To maintain its quality and appearance, follow these recommendations for washing cashmere.
+              <ul>
+                <li>Hand wash in cold water (preferred): Cashmere is delicate and ideally washed by hand in cold water to prevent shrinkage and maintain softness.</li>
+                <li>Use a mild, wool-safe detergent: Choose a gentle detergent designed for wool or cashmere to preserve its fibers.</li>
+                <li>Machine wash on a delicate cycle: If machine washing, place the cashmere item in a mesh laundry bag to protect it. Use the delicate cycle with cold water and avoid spin cycles that are too vigorous.</li>
+                <li>Do not wring or twist: After washing, press out excess water gently. Avoid wringing or twisting, which can stretch or damage the fabric.</li>
+                <li>Lay flat to dry: Lay the cashmere item flat on a clean, dry towel and reshape it gently. Avoid hanging, as it can cause the fibers to stretch.</li>
+                <li>Avoid direct heat or sunlight: Dry cashmere in a cool, shaded area to prevent damage from heat or sunlight.</li>
+                </ul>
+            </entry>
+            <entry>
+              <image href="assets/images/cashmere.jpg" alt="Cashmere fabric"/>
+            </entry>
+          </row>
+          <row>
+            <entry>Polyester</entry>
+            <entry>
+              A synthetic fabric made from polymer fibers, polyester is wrinkle-resistant and quick-drying. It is commonly used in activewear, outerwear, and home furnishings due to its ease of care and resilience.
+            </entry>
+            <entry>
+              To maintain its quality and appearance, follow these recommendations for washing polyester.
+              <ul>
+                <li>Use warm water: Polyester can generally be washed in warm water, which helps to remove oils and dirt effectively without damaging the fabric.</li>
+                <li>Select a permanent press or gentle cycle: Choose a permanent press or gentle cycle to reduce wrinkles and prevent excessive friction, which can cause pilling.</li>
+                <li>Use a mild detergent: A standard detergent works well with polyester, but avoid using bleach, as it can damage the fibers.</li>
+                <li>Avoid high heat in the dryer: Polyester is heat-sensitive and can melt or shrink if exposed to high temperatures. Use a low or medium heat setting in the dryer, if possible.</li>
+                <li>Use a fabric softener (optional): Polyester can sometimes build up static, so adding a fabric softener or dryer sheet can help reduce static cling.</li>
+                </ul>
+            </entry>
+            <entry>
+              <image href="assets/images/polyester.jpg" alt="Polyester fabric"/>
+            </entry>
+          </row>
+          <row>
+            <entry>Wool</entry>
+            <entry>Wool is a natural, insulating fiber commonly derived from sheep. Known for its warmth, softness, and durability, wool is often used in winter clothing, such as sweaters, coats, and blankets.</entry>
+             <entry>
+             To maintain its quality and prevent shrinkage or damage, follow these recommendations for washing wool.
+            <ul>
+            <li>Hand wash in cold water (preferred): Wool is delicate and best washed by hand in cold water. If machine washing, select a gentle or wool-specific cycle.</li>
+            <li>Use a wool-safe detergent: Choose a mild detergent formulated for wool to protect its natural fibers.</li>
+            <li>Avoid hot water: Wool can shrink in hot water, so always use cold water.</li>
+            <li>Do not wring or twist: After washing, gently press out excess water without wringing or twisting, which can distort the fibers.</li>
+            <li>Lay flat to dry: Reshape the wool item and lay it flat on a towel to air dry. Avoid hanging, as it may stretch or distort the fabric.</li>
+            <li>Avoid direct heat or sunlight: Wool can be sensitive to heat and sunlight, so dry in a cool, shaded area.</li>
+            </ul>
+  </entry>
+  <entry>
+    <image href="assets/images/wool.jpg" alt="Wool fabric"/>
+  </entry>
+</row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
