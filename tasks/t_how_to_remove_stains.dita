@@ -18,20 +18,19 @@
       <title>Instructions for removing coffee stains</title>
      <section>
       <title>Materials needed</title>
-      <itemgroup>
-        <item>Liquid laundry detergent</item>
-        <item>Powdered laundry detergent</item>
-        <item>White vinegar</item>
-        <item>Laundry stain remover</item>
-        <item>Dishwashing liquid (optional)</item>
-        <item>Oxygen bleach laundry detergent (optional)</item>
-        <item>Salt or baby powder (for fresh stains)</item>
-        <item>Toothbrush</item>
-        <item>Paper towels or cloth</item>
-      </itemgroup>
-
-    </section>
-    <steps>
+      <ul>
+        <li>Liquid laundry detergent</li>
+        <li>Powdered laundry detergent</li>
+        <li>White vinegar</li>
+        <li>Laundry stain remover</li>
+        <li>Dishwashing liquid (optional)</li>
+        <li>Oxygen bleach laundry detergent (optional)</li>
+        <li>Salt or baby powder (for fresh stains)</li>
+        <li>Toothbrush</li>
+        <li>Paper towels or cloth</li>
+      </ul>
+      </section>
+<//section>
       <step>
         <cmd>Rinse the coffee stain with cold water from the backside of the fabric.</cmd>
         <choices>
@@ -46,11 +45,11 @@
           <choice>For older stains, soak the garment in cold water for 30 minutes after applying detergent, gently rubbing the fabric every 5 minutes to loosen the stain.</choice>
         </choices>
       </step>
-      <step>
+    <step>
   <cmd>If the stain remains, create a paste using powdered laundry detergent, water, and white vinegar. Apply the paste to the stain and use an old toothbrush to scrub it into the stain.</cmd>
   <note type="caution">Test the paste on a hidden area of the garment to ensure it does not discolor the fabric before applying to the stain.</note>
   <info>Rinse the fabric thoroughly to remove any paste residue.</info>
-      </step>
+    </step>
       <step>
         <cmd>Apply a stain remover spray or gel to the area and let it sit for 5 minutes before laundering as usual.</cmd>
         <choices>
@@ -66,24 +65,24 @@
         <choices>
           <choice>For pure white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and then wash as usual.</choice>
         </choices>
-      </postreq>
-    </steps>
+        </postreq>
+    </step>
     </section>
   
 <section>
       <title>Instructions for removing oil stains</title>
 <section>
   <title>Materials needed</title>
-  <itemgroup>
-    <item>Heavy-duty laundry detergent</item>
-    <item>Enzyme-based stain remover (spray or gel)</item>
-    <item>Cornstarch or talcum powder</item>
-    <item>Soft-bristled brush</item>
-    <item>Dull knife, spoon</item>
-    <item>Small bowl</item>
-    <item>Paper towels or napkins</item>
-    <item>WD-40 (for set-in stains)</item>
-  </itemgroup>
+  <ul>
+    <li>Heavy-duty laundry detergent</li>
+    <li>Enzyme-based stain remover (spray or gel)</li>
+    <li>Cornstarch or talcum powder</li>
+    <li>Soft-bristled brush</li>
+    <li>Dull knife, spoon</li>
+    <li>Small bowl</li>
+    <li>Paper towels or napkins</li>
+    <li>WD-40 (for set-in stains)</li>
+  </ul>
 </section>
 
 </section>
