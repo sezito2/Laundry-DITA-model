@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_wash_with_stackable_machines.dita">
+<title>Washing clothes in stackable laundry machines</title>
+  <shortdesc>Instructions for using stackable laundry machines commonly found in shared housing facilities.</shortdesc>
+<taskbody>
+  <prereq>
+      <p>People must bring their own laundry detergent, fabric softener, bleach, and any other cleaning agents they would like to use.</p>
+    </prereq>
+      <title>Washing clothes</title>
+      <steps>
+        <step>
+          <cmd>Put dirty clothes in the washing machine drum located at the bottom of the stackable unit.</cmd>
+          <choices>
+            <choice>Optional: Separate clothes by color and fabric type to prevent damage or color bleeding.</choice>
+          </choices>
+        </step>
+        <step>
+          <cmd>Add the appropriate amount of detergent to the washing machine.</cmd>
+          <choices>
+            <choice>If using a pod, put it in the washing machine drum before adding clothes.</choice>
+            <choice>If using liquid or powdered detergent, put it into the detergent compartment in the pull-out drawer, typically located on the top section of the machine.</choice>
+            <choice>Optional: Add bleach and/or fabric softener to their respective compartments in the drawer if needed.</choice>
+          </choices>
+        </step>
+        <step>
+          <cmd>Close the washing machine door securely.</cmd>
+        </step>
+        <step>
+          <cmd>Select the appropriate wash settings on the control panel, usually located above the washing machine door.</cmd>
+          <info>Note: The settings will reset to default after each use, so check the panel before each wash cycle.</info>
+        </step>
+        <step>
+          <cmd>Press the start button to begin washing.</cmd>
+        </step>
+      </steps>
+    <postreq>Users can always set a personal timer to keep track of the remaining wash and dry time.</postreq>
+</taskbody>
