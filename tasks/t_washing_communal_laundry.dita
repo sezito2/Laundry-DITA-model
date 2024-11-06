@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_washing_communal_laundry">
+  <title>Washing Clothes in University Laundry Machines</title>
+  <shortdesc>University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines</shortdesc>
+  <taskbody>
+    <prereq>
+      <p>Residents must provide their own detergents, fabric softeners, bleach, and other cleaning agents.</p>
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Load dirty clothes into the washing machine drum.</cmd>
+        <choices>
+          <choice>Optional: separate clothes based on color and/or fabric type.</choice>
+        </choices>
+      </step>
+      <step>
+        <cmd>Add detergent to the washer.</cmd>
+        <choices>
+          <choice>If using detergent pods, place the pod directly in the washing machine drum.</choice>
+          <choice>If using liquid detergent, pour detergent into the detergent compartment in the drawer.</choice>
+          <choice>Optional: add bleach and/or fabric softener to the drawer.</choice>
+        </choices>
+      </step>
+      <step>
+        <cmd>Close door firmly.</cmd>
+      </step>
+      <step>
+        <cmd>Configure the settings with the control panel.</cmd>
+        <info>Note: settings will revert to default after each cycle.</info>
+      </step>
+      <step>
+        <cmd>Press start.</cmd>
+      </step>
+    </steps>
+    <postreq>Residents are encouraged to set a timer to keep track of time remaining on the machine. Remove all laundry promptly to allow others to use the machine.</postreq>
+  </taskbody>
+</task>
