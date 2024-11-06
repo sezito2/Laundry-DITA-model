@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_drying_communal_laundry">
+  <title>Washing clothes in stackable laundry machines</title>
+  <shortdesc>Instructions for using stackable laundry machines commonly found in shared housing facilities.</shortdesc>
+  <taskbody>
+  <prereq>
+      <p>People must bring their own laundry detergent, fabric softener, bleach, and any other cleaning agents they would like to use.</p>
+    </prereq>
+      <title>Drying Clothes</title>
+      <steps>
+        <step>
+          <cmd>Transfer the washed clothes from the washing machine to the dryer drum, located on top of the stackable unit.</cmd>
+          <choices>
+            <choice>Optional: Add dryer sheets or wool dryer balls to reduce static and add softness.</choice>
+          </choices>
+        </step>
+        <step>
+          <cmd>Close the dryer door securely.</cmd>
+        </step>
+        <step>
+          <cmd>Select the appropriate drying settings on the dryer control panel, usually located above the dryer door.</cmd>
+          <info>Note: Select a lower heat setting for delicate or synthetic fabrics to prevent damage.</info>
+        </step>
+        <step>
+          <cmd>Press the start button to begin the drying cycle.</cmd>
+        </step>
+      </steps>
+    <postreq>Users can always set a personal timer to keep track of the remaining wash and dry time.</postreq>
+    </taskbody>
+</task>
