@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="r_laundry_icons_wash">
+  <title>Laundry Icons for Washing Clothes</title>
+  <shortdesc>
+    Clothing tags often include instructions for how to best wash the article. These instructions are indicated through universal icons.
+  </shortdesc>
+  <refbody>
+    <table>
+      <title>Machine Wash</title>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Icon</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <image href="../assets/images/machine-wash.png" alt="Machine Wash symbol"/>
+            </entry>
+            <entry>Machine wash</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/cold-water.png" alt="Cold water icon"/>
+              <image href="../assets/images/cold-water-dot.png" alt="Cold water icon"/>
+            </entry>
+            <entry>Wash with cold water</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/warm-water.png" alt="Warm water icon"/>
+              <image href="../assets/images/warm-water-dot.png" alt="Warm water icon"/>
+            </entry>
+            <entry>Wash with warm water</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/hot-water.png" alt="Hot water icon"/>
+              <image href="../assets/images/hot-water-dot.png" alt="Hot water icon"/>
+            </entry>
+            <entry>Wash with hot water</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/gentle-cycle.png" alt="Gentle cycle icon"/>
+            </entry>
+            <entry>Wash on a gentle cycle</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table>
+      <title>Wash</title>
+      <tgroup cols="2">
+        <thead>
+          <row>
+            <entry>Icon</entry>
+            <entry>Description</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <image href="../assets/images/do-not-wash.png" alt="Do Not wash symbol"/>
+            </entry>
+            <entry>Do not wash</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/hand-wash.png" alt="Hand wash icon"/>
+            </entry>
+            <entry>Hand wash</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/do-not-bleach.png" alt="Do not bleach"/>
+            </entry>
+            <entry>Do not bleach</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/bleach-needed.png" alt="Bleach as needed"/>
+            </entry>
+            <entry>Bleach as needed</entry>
+          </row>
+          <row>
+            <entry>
+              <image href="../assets/images/non-chlorine.png" alt="Non-chlorine bleach only"/>
+            </entry>
+            <entry>Non-chlorine bleach only</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </refbody>
+</reference>
