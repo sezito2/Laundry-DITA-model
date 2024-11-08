@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map id="laundry_map">
-  <title>Laundry as an NC State Student living off-campus</title>
-  <topicref 
-  
-  href="" format="ditamap">
-    <topicmeta>
-      <navtitle></navtitle>
-    </topicmeta>
+<map id="scenario-three-map">
+  <title>Laundry as an Off-Campus NC State Student</title>
+  <topicref type="concept" href="concepts\c_saving_money_doing_laundry_at_home.dita" navtitle="Saving money by doing laundry at home">
+    <topicref type="task" href="tasks\t_how_to_remove_stains.dita" navtitle="How to remove stains"/>
+    <topicref type="concept" href="concepts\c_importance_of_sorting_clothes.dita" navtitle="The importance of sorthing laundry">
+      <topicref type="reference" href="references\r_fabric_types.dita" navtitle="Recommended settings for different fabric types"/>
+      <topicref type="reference" href="references\r_laundry_icons_wash.dita" navtitle="Wash icons on clothing tags"/>
+      <topicref type="reference" href="references\r_laundry_icons_dry.dita" navtitle="Dry icons on clothing tags"/>
+    </topicref>
   </topicref>
 </map>
