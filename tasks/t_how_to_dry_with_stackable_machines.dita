@@ -5,9 +5,8 @@
   <shortdesc>Instructions for using stackable laundry machines commonly found in shared housing facilities.</shortdesc>
   <taskbody>
     <prereq>
-      <p>People must bring their own laundry detergent, fabric softener, bleach, and any other cleaning agents they would like to use.</p>
+      <p>Students must use their own dryer sheets, wool balls, or any other products they would like to use.</p>
     </prereq>
-      <title>Drying Clothes</title>
       <steps>
         <step>
           <cmd>Transfer the washed clothes from the washing machine to the dryer drum, located on top of the stackable unit.</cmd>
@@ -27,5 +26,5 @@
         </step>
       </steps>
     <postreq>Users can always set a personal timer to keep track of the remaining wash and dry time.</postreq>
-    </taskbody>
+  </taskbody>
 </task>

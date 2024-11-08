@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map id="scenario-two-map">
+  <title>Washing Laundry in NC State Apartments</title>
+  <topicref type="task" href="tasks\t_how_to_remove_stains.dita" navtitle="How to remove stains"/>
+  <topicref type="task" href="tasks\t_how_to_wash_with_stackable_machines.dita" navtitle="How to wash clothes in a stackable machine">
+    <topicref type="concept" href="concepts\c_importance_of_sorting_clothes.dita" navtitle="The importance of sorting laundry"/>
+    <topicref type="reference" href="references\r_laundry_icons_wash.dita" navtitle="Wash icons on laundry tags"/>
+  </topicref>
+  <topicref type="task" href="tasks\t_how_to_dry_with_stackable_machines.dita" navtitle="How to dry clothes in a stackable machine">
+    <topicref type="reference" href="references\r_laundry_icons_dry.dita" navtitle="Dry icons on laundry tag"/>
+  </topicref>
+</map>
