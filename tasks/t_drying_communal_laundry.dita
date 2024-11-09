@@ -2,6 +2,19 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_drying_communal_laundry">
   <title>Drying Clothes in University Laundry Machines</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>university laundry</keyword>
+        <keyword>communal laundry</keyword>
+        <keyword>dryer instructions</keyword>
+      </keywords>
+      <audience ="students"/>
+      <audience ="dorm residents"/>
+      <category ="Household Guide"/>
+      <category>Household Guide
+    </metadata>
+  </prolog>
   <shortdesc>University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines</shortdesc>
   <taskbody>
     <prereq>
@@ -15,14 +28,14 @@
           <choice>Optional: separate clothes based on color and/or fabric type.</choice>
         </choices>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Close the dryer door.</cmd>
       </step>
       <step>
         <cmd>Select the desired mode with the correct control panel</cmd>
         <info>The right panel controls the bottom dryer and the left panel controls the top dryer.</info>
       </step>
-      <step>
+      <step audience="novice">
         <cmd>Press start.</cmd>
       </step>
     </steps>
