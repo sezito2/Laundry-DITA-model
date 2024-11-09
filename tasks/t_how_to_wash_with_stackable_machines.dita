@@ -3,6 +3,16 @@
 <task id="t_how_to_wash_with_stackable_machines.dita">
 <title>Washing clothes in stackable laundry machines</title>
   <shortdesc>Instructions for using stackable laundry machines commonly found in shared housing facilities.</shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>stackable machines</keyword>
+        <keyword>washing clothes</keyword>
+        <keyword>laundry</keyword>
+      </keywords>
+      <audience ="students"/></audience>
+    </metadata>
+  </prolog>
 <taskbody>
   <prereq>
       <p>Students must use their own laundry detergent, fabric softener, bleach, and any other cleaning agents they would like to use.</p>
