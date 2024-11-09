@@ -2,9 +2,20 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_how_to_remove_stains">
 <title>Clothing coffee and oil stain removal tips</title>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>stain removal</keyword>
+        <keyword>laundry tips</keyword>
+        <keyword>fabric care</keyword>
+      </keywords>
+      <audience ="general"></audience>
+      <category>Cleaning Guide</category>
+    </metadata>
+  </prolog>
   <shortdesc>Instructions on how to effectively remove coffee and oil stains from cotton or cotton-blend clothing using different cleaning methods and materials.</shortdesc>
   <taskbody>
-    <note>
+    <note audience='novice'>
     <p>Different types of fabrics may require different cleaning approaches, as they can react differently to stain removers and washing techniques. These instructions can be used when washing cotton or cotton-blend clothes.</p>
       <p>Always check the care label before starting any stain removal process. The care label provides important information, such as:</p>
       <ul>
