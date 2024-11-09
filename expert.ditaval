@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <val>
+<p audience="expert">This is content for experts.</p>
+<p audience="novice">This is content for novices.</p>
+<p audience="students">This content is for all students.</p>
   <prop att="audience"
         val="expert"
         action="include"
