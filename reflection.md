@@ -39,3 +39,5 @@ Will is a second-year student who has done his own laundry before, both at home 
       1. r_laundry_icons_wash.dita
       2. r_laundry_icons_dry.dita
       3. r_fabric_types.dita
+
+There're concept topics and references included in this map. They ensure that Will has the necessary resources to refine his laundry habits. The concept topics provide strategies for cost-saving and basic laundry rule about sorting clothes, while the references are the quick guides to help him make informed decisions on washing and drying settings. DITA map is tailored to goal of improving efficiency and cutting down on laundry expenses. The content tells how to make smarter choices, adding new techniques to optimize user's routine.
