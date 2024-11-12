@@ -5,12 +5,7 @@
   <shortdesc>Instructions for using stackable laundry machines commonly found in shared housing facilities.</shortdesc>
   <prolog>
     <metadata>
-      <keywords>
-        <keyword>stackable machines</keyword>
-        <keyword>washing clothes</keyword>
-        <keyword>laundry</keyword>
-      </keywords>
-      <audience ="students"/></audience>
+    <audience type="laundry-user" experiencelevel="novice"/>
     </metadata>
   </prolog>
 <taskbody>
