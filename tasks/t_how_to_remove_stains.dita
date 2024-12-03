@@ -19,8 +19,8 @@
       <li>**Stain Removal Methods**: Some fabrics, like synthetics, may react poorly to common stain removers. Checking the label helps identify the safest cleaning method for each fabric type.</li>
     </ul>
     </note>
-      <title>Instructions for removing coffee stains</title>
-     <prereq>The following materials are needed:
+    <title>Instructions for removing coffee stains</title>
+    <prereq>The following materials are needed:
       <ul>
         <li>Liquid laundry detergent</li>
         <li>Powdered laundry detergent</li>
@@ -32,7 +32,8 @@
         <li>Toothbrush</li>
         <li>Paper towels or cloth</li>
       </ul>
-     </prereq>
+    </prereq>
+    <steps>
       <step>
         <cmd>Rinse the coffee stain with cold water from the backside of the fabric.</cmd>
         <info>
@@ -73,17 +74,16 @@
           <note type="tip">Hold clothes up to a bright light to check for any remaining problems. If any hint of the stain remains, repeat the treatment steps.</note>
         </info>
       </step>
-      <postreq>
-        <p>Air-dry the clothes to prevent heat from getting any other stain. Avoid machine drying until the stain is fully removed.</p>
-        <p>For pure white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and then wash as usual.</p>
-      </postreq>
-    </step>
-    </section>
+    </steps>
+    <postreq>
+      <p>Air-dry the clothes to prevent heat from getting any other stain. Avoid machine drying until the stain is fully removed.</p>
+      <p>For pure white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and then wash as usual.</p>
+    </postreq>
     <!-- This is up to where I edited this doc. There are still errors in here possibly from having sections (Whenver I have written a task topic dita doesn't like sections) -Sami -->
   
 <section>
       <title>Instructions for removing oil stains</title>
-<section>
+</section>
   <title>Materials needed</title>
   <ul>
     <li>Heavy-duty laundry detergent</li>
@@ -95,7 +95,7 @@
     <li>Paper towels or napkins</li>
     <li>WD-40 (for set-in stains)</li>
   </ul>
-</section>
+<//section>
 
 </section>
 <steps>
