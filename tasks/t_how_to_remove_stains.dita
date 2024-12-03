@@ -11,18 +11,16 @@
   <taskbody>
     <note audience='novice'>
     <p>Different types of fabrics may require different cleaning approaches, as they can react differently to stain removers and washing techniques. These instructions can be used when washing cotton or cotton-blend clothes.</p>
-      <p>Always check the care label before starting any stain removal process. The care label provides important information, such as:</p>
-      <ul>
-        <li>**Water Temperature**: Some fabrics may shrink or get damaged in hot water, while cotton can generally withstand warmer temperatures.</li>
-        <li>**Cleaning Agents**: Certain fabrics are sensitive to specific chemicals, which can cause damage. Cotton is usually tolerant of stronger cleaning agents, but delicates like silk or acetate may require gentler products.</li>
-        <li>**Drying Instructions**: The label indicates if the fabric should be machine dried, air-dried, or kept away from heat to avoid damage. Cotton is more heat-resistant, while synthetic fibers may shrink or warp.</li>
-        <li>**Stain Removal Methods**: Some fabrics, like synthetics, may react poorly to common stain removers. Checking the label helps identify the safest cleaning method for each fabric type.</li>
-      </ul>
+    <p>Always check the care label before starting any stain removal process. The care label provides important information, such as:</p>
+    <ul>
+      <li>**Water Temperature**: Some fabrics may shrink or get damaged in hot water, while cotton can generally withstand warmer temperatures.</li>
+      <li>**Cleaning Agents**: Certain fabrics are sensitive to specific chemicals, which can cause damage. Cotton is usually tolerant of stronger cleaning agents, but delicates like silk or acetate may require gentler products.</li>
+      <li>**Drying Instructions**: The label indicates if the fabric should be machine dried, air-dried, or kept away from heat to avoid damage. Cotton is more heat-resistant, while synthetic fibers may shrink or warp.</li>
+      <li>**Stain Removal Methods**: Some fabrics, like synthetics, may react poorly to common stain removers. Checking the label helps identify the safest cleaning method for each fabric type.</li>
+    </ul>
     </note>
- <section>
       <title>Instructions for removing coffee stains</title>
-     <section>
-      <title>Materials needed</title>
+     <prereq>The following materials are needed:
       <ul>
         <li>Liquid laundry detergent</li>
         <li>Powdered laundry detergent</li>
@@ -34,14 +32,14 @@
         <li>Toothbrush</li>
         <li>Paper towels or cloth</li>
       </ul>
-      </section>
-<//section>
+     </prereq>
       <step>
         <cmd>Rinse the coffee stain with cold water from the backside of the fabric.</cmd>
-        <choices>
-          <choice>For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</choice>
-        </choices>
-        <info>Continue rinsing with cold water for 10-15 minutes, or until the water runs clear.</info>
+        <info>
+          <note type="tip">For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</note>
+        </info>
+      <step>
+        <cmd>Contineu rinsing with cold water for 10-15 minutes, or until the water runs clear.</cmd>
       </step>
       <step>
         <cmd>Apply liquid laundry detergent or dish soap directly to the stain and gently rub it in with your fingers.</cmd>
@@ -50,27 +48,31 @@
           <choice>For older stains, soak the garment in cold water for 30 minutes after applying detergent, gently rubbing the fabric every 5 minutes to loosen the stain.</choice>
         </choices>
       </step>
-    <step>
-  <cmd>If the stain remains, create a paste using powdered laundry detergent, water, and white vinegar. Apply the paste to the stain and use an old toothbrush to scrub it into the stain.</cmd>
-  <note type="caution">Test the paste on a hidden area of the garment to ensure it does not discolor the fabric before applying to the stain.</note>
-  <info>Rinse the fabric thoroughly to remove any paste residue.</info>
-    </step>
+      <step importance="optional">
+        <cmd>If the stain remains, create a paste using powdered laundry detergent, water, and white vinegar. Apply the paste to the stain and use an old toothbrush to scrub it into the stain.</cmd>
+          <info>
+            <note type="caution">Test the paste on a hidden area of the garment to ensure it does not discolor the fabric before applying to the stain.</note>
+          </info>
+          <substeps>
+            <substep><cmd>For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</cmd></substep>
+          </substeps>
+      </step>
       <step>
         <cmd>Apply a stain remover spray or gel to the area and let it sit for 5 minutes before laundering as usual.</cmd>
-        <choices>
-          <choice>If it's available, use an oxygen bleach laundry detergent as the stain remover for enhanced stain-lifting power.</choice>
-        </choices>
+        <substeps>
+          <substep importance="optional"><cmd>If it's available, use an oxygen bleach laundry detergent as the stain remover for enhanced stain-lifting power.</cmd></substep>
+        </substeps>
       </step>
       <step>
         <cmd>Look at the stain before drying to ensure it has been completely removed.</cmd>
-        <info>Hold clothes up to a bright light to check for any remaining problems. If any hint of the stain remains, repeat the treatment steps.</info>
+        <info>
+          <note type="tip">Hold clothes up to a bright light to check for any remaining problems. If any hint of the stain remains, repeat the treatment steps.</note>
+        </info>
       </step>
       <postreq>
         <p>Air-dry the clothes to prevent heat from getting any other stain. Avoid machine drying until the stain is fully removed.</p>
-        <choices>
-          <choice>For pure white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and then wash as usual.</choice>
-        </choices>
-        </postreq>
+        <p>For pure white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and then wash as usual.</p>
+      </postreq>
     </step>
     </section>
   
@@ -138,11 +140,12 @@
           <cmd>Pretreat with a stain remover or heavy-duty laundry detergent and allow it to sit for 15-30 minutes before laundering as usual.</cmd>
         </step>
       </steps>
-      <choices>
-        <choice>Avoid letting oil stains sit on the fabric too long, as this can make them more difficult to remove.</choice>
-        <choice>Do not rub or scrub the stain without a cleaning solvent, as this can push the oil further into the fibers.</choice>
-        <choice>Always confirm the stain is fully removed before putting clothes in the dryer, as heat can set the stain permanently.</choice>
-      </choices>
+        <choices>
+          <choice>Avoid letting oil stains sit on the fabric too long, as this can make them more difficult to remove.</choice>
+          <choice>Do not rub or scrub the stain without a cleaning solvent, as this can push the oil further into the fibers.</choice>
+          <choice>Always confirm the stain is fully removed before putting clothes in the dryer, as heat can set the stain permanently.</choice>
+        </choices>
+      </steps>
     </postreq>
-  </steps>
-</section>
+  </taskbody>
+</task>
