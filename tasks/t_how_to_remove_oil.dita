@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_how_to_remove_oil">
+<title>Removing Oil-Based Stains</title>
+  <shortdesc>Different types of fabrics may require different cleaning approaches, as they can react differently to stain removers and washing techniques. These instructions can be used when washing cotton or cotton-blend clothes.</shortdesc>
+  <prolog>
+    <metadata>
+      <audience type="laundry-user" experiencelevel="novice"/>
+    </metadata>
+  </prolog>
+  <taskbody>
+    <prereq>
+      <p>You will need the following materials:
+        <ul>
+          <li>Heavy-duty laundry detergent</li>
+          <li>Enzyme-based stain remover (spray or gel)</li>
+          <li>Cornstarch or talcum powder</li>
+          <li>Soft-bristled brush</li>
+          <li>Dull knife, spoon</li>
+          <li>Small bowl</li>
+          <li>Paper towels or napkins</li>
+          <li>WD-40 (for set-in stains)</li>
+        </ul>
+      </p>   
+    </prereq>
+    <steps>
+      <step>
+        <cmd>Remove any excess oil residue</cmd>
+        <choices>
+          <choice>If the stain is fresh and there is no solid residue, blot the oily area with a paper towel or napkin to absorb excess oil.</choice>
+          <choice>If their is solid residue, gently lift it away with the edge of a dull knife or spoon</choice>
+        </choices>
+      </step>
+      <step importance="optional">
+        <cmd>If the stain is older or set-in, carefully dab a small amount of WD-40 onto the stained area with a cotton swab.</cmd>
+      </step>
+      <step>
+        <cmd>Generously apply cornstarch or talcum powder to the stain to absorb as much oil as possible.</cmd>
+      </step>
+      <step>
+        <cmd>Allow the powder to sit on the stain for about 15 minutes to fully absorb the oil</cmd>
+      </step>
+      <step>
+        <cmd>Brush the powder away with a soft-bristled brush.</cmd>
+      </step>
+      <step>
+        <cmd>Pretreat the stain with an enzyme-based stain remover spray or gel.</cmd>
+        <info>
+          <note type="note">If an enzyme-based remover isn't available, apply a heavy-duty liquid detergent directly to the stain and gently work it in with a soft-bristled brush or by rubbing the fabric with your fingers.</note>
+        </info>
+      </step>
+      <step>
+        <cmd>Let the stain remover sit on the stain for at least 15-30 minutes to allow enzymes to break down the oil.</cmd>
+      </step>
+      <step>
+        <cmd>Wash the clothes in the hottest water recommended for the fabric, using the recommended amount of heavy-duty laundry detergent.</cmd>
+      </step>
+      <step>
+        <cmd>Examine the stained area after washing.</cmd>
+        <info>
+          <note type="attention">Do not put the clothes in the dryer until you are confident that the stain has been removed. Air-dry the clothes if you're unsure, as dryer heat can set in the stain permanently.</note>
+        </info>
+      </step>
+    </steps>
+    <postreq>
+      <p>
+        <note type="tip">Avoid letting oil stains set into the fabric, as this make it more difficult to remove</note>
+        <note type="attention">Do not rub or scrub the stain without a cleaning solvent, this can push the oil further into the fabric.</note>
+        <note type="attention">Always confirm the stain is fully removed before putting clothes in the dryer. The heat can set the stain permanently</note>
+      </p>
+    </postreq>
+  </taskbody>
+</task>
