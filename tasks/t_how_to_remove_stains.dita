@@ -2,24 +2,13 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_how_to_remove_stains">
 <title>Clothing coffee and oil stain removal tips</title>
+  <shortdesc>Different types of fabrics may require different cleaning approaches, as they can react differently to stain removers and washing techniques. These instructions can be used when washing cotton or cotton-blend clothes.</shortdesc>
   <prolog>
     <metadata>
       <audience type="laundry-user" experiencelevel="novice"/>
     </metadata>
   </prolog>
-  <shortdesc>Instructions on how to effectively remove coffee and oil stains from cotton or cotton-blend clothing using different cleaning methods and materials.</shortdesc>
   <taskbody>
-    <note audience='novice'>
-    <p>Different types of fabrics may require different cleaning approaches, as they can react differently to stain removers and washing techniques. These instructions can be used when washing cotton or cotton-blend clothes.</p>
-    <p>Always check the care label before starting any stain removal process. The care label provides important information, such as:</p>
-    <ul>
-      <li>**Water Temperature**: Some fabrics may shrink or get damaged in hot water, while cotton can generally withstand warmer temperatures.</li>
-      <li>**Cleaning Agents**: Certain fabrics are sensitive to specific chemicals, which can cause damage. Cotton is usually tolerant of stronger cleaning agents, but delicates like silk or acetate may require gentler products.</li>
-      <li>**Drying Instructions**: The label indicates if the fabric should be machine dried, air-dried, or kept away from heat to avoid damage. Cotton is more heat-resistant, while synthetic fibers may shrink or warp.</li>
-      <li>**Stain Removal Methods**: Some fabrics, like synthetics, may react poorly to common stain removers. Checking the label helps identify the safest cleaning method for each fabric type.</li>
-    </ul>
-    </note>
-    <title>Instructions for removing coffee stains</title>
     <prereq>The following materials are needed:
       <ul>
         <li>Liquid laundry detergent</li>
@@ -33,6 +22,17 @@
         <li>Paper towels or cloth</li>
       </ul>
     </prereq>
+   <!-- <context>
+      <p>Always check the care label before starting any stain removal process. The care label provides important information, such as:
+        <ul>
+          <li>**Water Temperature**: Some fabrics may shrink or get damaged in hot water, while cotton can generally withstand warmer temperatures.</li>
+          <li>**Cleaning Agents**: Certain fabrics are sensitive to specific chemicals, which can cause damage. Cotton is usually tolerant of stronger cleaning agents, but delicates like silk or acetate may require gentler products.</li>
+          <li>**Drying Instructions**: The label indicates if the fabric should be machine dried, air-dried, or kept away from heat to avoid damage. Cotton is more heat-resistant, while synthetic fibers may shrink or warp.</li>
+          <li>**Stain Removal Methods**: Some fabrics, like synthetics, may react poorly to common stain removers. Checking the label helps identify the safest cleaning method for each fabric type.</li>
+        </ul>
+      </p>
+    </context> -->
+   
     <steps>
       <step>
         <cmd>Rinse the coffee stain with cold water from the backside of the fabric.</cmd>
@@ -79,9 +79,10 @@
       <p>Air-dry the clothes to prevent heat from getting any other stain. Avoid machine drying until the stain is fully removed.</p>
       <p>For pure white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and then wash as usual.</p>
     </postreq>
+  </taskbody>
+</task>
     <!-- This is up to where I edited this doc. There are still errors in here possibly from having sections (Whenver I have written a task topic dita doesn't like sections) -Sami -->
-  
-<section>
+  <!-- <section>
       <title>Instructions for removing oil stains</title>
 </section>
   <title>Materials needed</title>
@@ -95,8 +96,6 @@
     <li>Paper towels or napkins</li>
     <li>WD-40 (for set-in stains)</li>
   </ul>
-<//section>
-
 </section>
 <steps>
     <step>
@@ -153,4 +152,4 @@
       </steps>
     </postreq>
   </taskbody>
-</task>
+</task>-->
