@@ -10,5 +10,5 @@
   <topicref type="task" href="tasks/t_drying_communal_laundry.dita" navtitle="How to Dry Clothes in Communal Machines">
     <topicref type="reference" href="references/r_laundry_icons_dry.dita" navtitle="Dry Icons on Clothing Tags"/>
   </topicref>
-  <topicref type="concept" href="concepts\c_laundry_etiquette.dita" navtitle="Laundry room etiquette"/>
+  <topicref type="task" href="tasks\t_laundry_etiquette.dita" navtitle="Laundry room etiquette"/>
 </map>

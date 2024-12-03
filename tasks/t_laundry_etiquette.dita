@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_laundry_etiquette">
+  <title>Laundry Room Etiquette</title>
+  <shortdesc>Like many NC State students, this may be your first time doing laundry in a shared facility. It is important to practice laundry room etiquette to respect your fellow residents and their belongings.
+  </shortdesc>
+  <taskbody>
+    <context>
+      <image href="../assets/images/etiquette.jpg" alt="NC State laundry room"/>
+      <p>Here are some things to keep in mind while using the shared laundry rooms:</p>
+    </context>
+    <steps-unordered>
+      <step><cmd>Be timely in removing clothes from washers and dryers</cmd>
+        <substeps>
+          <substep><cmd>Download the speedqueen app to see when machines are available</cmd></substep>
+          <substep><cmd>Set a timer on your phone to keep track of time</cmd></substep>
+        </substeps>
+      </step>
+      <step><cmd>Do no use an excessive amount of machines during peak hours</cmd>
+        <info><p>Peak hours include weekdays after 3pm and weekends</p></info>
+      </step>
+      <step><cmd>Clean out your lint trap</cmd></step>
+      <step><cmd>Give other residents a 15-20 minute grace period before removing their clothes from the machine</cmd>
+        <substeps>
+          <substep><cmd>Place wet clothes on top of the washing machine</cmd></substep>
+          <substep><cmd>Place dry clothes on the folding table</cmd></substep>
+        </substeps>
+      </step>
+      <step><cmd>Clean up any spills</cmd></step>
+      <step><cmd>Make sure to remove all clothes from the machines</cmd></step>
+      <step><cmd>Leave the washing machine doors open after use to prevent mildew</cmd></step>
+    </steps-unordered>
+  </taskbody>
+</task>
