@@ -36,10 +36,12 @@
       <step>
         <cmd>Rinse the coffee stain with cold water from the backside of the fabric.</cmd>
         <info>
-          <note type="tip">For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</note>
+          <note type="tip">For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.
+          </note>
         </info>
+      </step>
       <step>
-        <cmd>Contineu rinsing with cold water for 10-15 minutes, or until the water runs clear.</cmd>
+        <cmd>Continue rinsing with cold water for 10-15 minutes, or until the water runs clear.</cmd>
       </step>
       <step>
         <cmd>Apply liquid laundry detergent or dish soap directly to the stain and gently rub it in with your fingers.</cmd>
@@ -54,7 +56,9 @@
             <note type="caution">Test the paste on a hidden area of the garment to ensure it does not discolor the fabric before applying to the stain.</note>
           </info>
           <substeps>
-            <substep><cmd>For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</cmd></substep>
+            <substep>
+              <cmd>For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</cmd>
+            </substep>
           </substeps>
       </step>
       <step>
@@ -75,6 +79,7 @@
       </postreq>
     </step>
     </section>
+    <!-- This is up to where I edited this doc. There are still errors in here possibly from having sections (Whenver I have written a task topic dita doesn't like sections) -Sami -->
   
 <section>
       <title>Instructions for removing oil stains</title>
