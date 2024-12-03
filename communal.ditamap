@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="scenario_one_map">
   <title>Laundry in NC State Dorms</title>
-  <topicref type="task" href="tasks\t_how_to_remove_stains.dita" navtitle="How to remove stains"/>
+  <topicref type="task" href="tasks\t_how_to_remove_coffee.dita" navtitle="How to Remove Coffee Stains"/>
   <topicref type="concept" href="concepts\c_importance_of_sorting_clothes.dita" navtitle="The importance of sorting clothes"/>
   <topicref type="task" href="tasks/t_washing_communal_laundry.dita" navtitle="How to Wash Clothes in Communal Machines">
     <topicref type="reference" href="references/r_laundry_icons_wash.dita" navtitle="Wash Icons on Clothing Tags"/>

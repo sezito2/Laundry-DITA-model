@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
-<task id="t_how_to_remove_stains">
-<title>Clothing coffee and oil stain removal tips</title>
+<task id="t_how_to_remove_coffee">
+<title>Removing Coffee Stains</title>
   <shortdesc>Different types of fabrics may require different cleaning approaches, as they can react differently to stain removers and washing techniques. These instructions can be used when washing cotton or cotton-blend clothes.</shortdesc>
   <prolog>
     <metadata>
@@ -22,7 +22,8 @@
         <li>Paper towels or cloth</li>
       </ul>
     </prereq>
-   <!-- <context>
+   <!-- I moved the following section into a brief concept topic -Sami
+    <context>
       <p>Always check the care label before starting any stain removal process. The care label provides important information, such as:
         <ul>
           <li>**Water Temperature**: Some fabrics may shrink or get damaged in hot water, while cotton can generally withstand warmer temperatures.</li>
