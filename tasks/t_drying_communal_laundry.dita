@@ -2,25 +2,47 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_drying_communal_laundry">
   <title>Drying Clothes in University Laundry Machines</title>
-  <shortdesc>University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines</shortdesc>
+  <!-- Note how shortdesc's are essentially specific types of paragraph elements, so you can format them as such. -->
+  <shortdesc>
+    University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines.
+  </shortdesc>
   <taskbody>
     <prereq>
       <p>Residents must provide their own dryer sheets or wool balls if desired.</p>
     </prereq>
     <steps>
+      <!-- Note this revised version. Choices connotes that there are mulitple options to choose from. In this case, you are simply identifying an optional step, so you can use the importance attribute with the optional value. -->
+      <step importance="optional">
+        <cmd>
+          Separate clothes based on color and/or fabric type.
+        </cmd>
+      </step>
       <step>
         <cmd>Load wet clothes into the dryer drum.</cmd>
-        <info>Alert: check the lint trap to ensure it is clean.</info>
-        <choices>
+        <!-- Clarify your semantics, when possible. Consider the use of the note element in other like cases throughout your model. Revise accordingly. -->
+        <info>
+          <note type="caution">
+            Check the lint trap to ensure it is clean.
+          </note>
+        </info>
+        <!-- <info>Alert: check the lint trap to ensure it is clean.</info> -->
+        <!-- <choices>
           <choice>Optional: separate clothes based on color and/or fabric type.</choice>
-        </choices>
+        </choices> -->
       </step>
       <step audience="novice">
         <cmd>Close the dryer door.</cmd>
       </step>
       <step>
+        <!-- Should you elaborate on this step with more fidelity for novices? What mode works with what situation? A choicetable would be helpful here: https://www.oxygenxml.com/dita/1.3/specs/langRef/technicalContent/choicetable.html -->
         <cmd>Select the desired mode with the correct control panel</cmd>
-        <info>The right panel controls the bottom dryer and the left panel controls the top dryer.</info>
+        <!-- Again, note the different types of notes -->
+        <info>
+          <note type="tip">
+            The right panel controls the bottom dryer and the left panel controls the top dryer.
+          </note>
+        </info>
+        <!-- <info>The right panel controls the bottom dryer and the left panel controls the top dryer.</info> -->
       </step>
       <step audience="novice">
         <cmd>Press start.</cmd>
@@ -28,6 +50,7 @@
     </steps>
     <postreq>
       <p>Residents are encouraged to set a timer to keep track of time remaining on the machine. Remove all laundry promptly to allow others to use the machine.</p>
+      <!-- Again, consider how this is a note here. -->
       <p>Alert: Clean the lint trap when the cycle is finished to reduce the risk of fire.</p>
     </postreq>
   </taskbody>

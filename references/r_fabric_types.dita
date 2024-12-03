@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<!-- COMMENTS
+  Unfortunately, much of this topic is written as a blend of task and concept content. 
+  
+  - You can reformat the table as a choicetable in its own new task topic, then link/reference it in your simpler procedure to help folks navigate the choices to make. This is also a moment where you would use a conref technique. We didn't cover this strategy, so no worries there. But, it's a great case for it!
+  - You can then revise this table as a reference simpletable by emphasizing water temperature (cold vs warm vs hot as values) as an organizing principle for the first column, then common fabrics that fall under that temp.
+  - Finally, you can create a concept topic that explains the properties of fabrics by using that particular content and media herein. You can use the section element to divide accordingly.
+-->
 <reference id="r_fabric_types">
   <title>Fabric Types</title>
   <shortdesc>
