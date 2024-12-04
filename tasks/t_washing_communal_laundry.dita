@@ -19,15 +19,19 @@
         <choices>
           <choice>If using detergent pods, place the pod directly in the washing machine drum.</choice>
           <choice>If using liquid detergent, pour detergent into the detergent compartment in the drawer.</choice>
-          <choice>Optional: add bleach and/or fabric softener to the drawer.</choice>
         </choices>
+      </step>
+      <step importance="optional">
+        <cmd>Add bleach and/or fabric softener to the drawer.</cmd>
       </step>
       <step>
         <cmd>Close door firmly.</cmd>
       </step>
       <step>
         <cmd>Configure the settings with the control panel.</cmd>
-        <info>Note: settings will revert to default after each cycle.</info>
+        <info>
+          <note type="note">Settings will revert to default after each cycle.</note>
+        </info>
       </step>
       <step>
         <cmd>Press start.</cmd>

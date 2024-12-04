@@ -10,16 +10,18 @@
       <steps>
         <step>
           <cmd>Transfer the washed clothes from the washing machine to the dryer drum, located on top of the stackable unit.</cmd>
-          <choices>
-            <choice>Optional: Add dryer sheets or wool dryer balls to reduce static and add softness.</choice>
-          </choices>
+        </step>
+        <step importance="optional">
+          <cmd>Add dryer sheets or wool dryer balls to reduce static and add softness.</cmd>
         </step>
         <step>
           <cmd>Close the dryer door securely.</cmd>
         </step>
         <step>
           <cmd>Select the appropriate drying settings on the dryer control panel, usually located above the dryer door.</cmd>
-          <info>Note: Select a lower heat setting for delicate or synthetic fabrics to prevent damage.</info>
+          <info>
+            <note type="tip">Select a lower heat setting for delicate or synthetic fabrics to prevent damage.</note>
+          </info>
         </step>
         <step>
           <cmd>Press the start button to begin the drying cycle.</cmd>

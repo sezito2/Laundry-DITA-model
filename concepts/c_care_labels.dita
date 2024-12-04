@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_enter_unique_id_here">
+  <title>Clothing Care Labels</title>
+  <shortdesc>Care labels provide you with information and guidelines about apparel care and how to best cleaning your garments. You should refer to the care label before cleaning your clothes.</shortdesc>
+  <conbody>
+    <p>Care labels list important information such as:
+      <ul>
+        <li>Water temperature</li>
+        <li>Recommended cleaning agents</li>
+        <li>Washing instructions</li>
+        <li>Drying instructions</li>
+        <li>Stain removal methods</li>
+      </ul>
+    </p>
+  </conbody>
+</concept>
