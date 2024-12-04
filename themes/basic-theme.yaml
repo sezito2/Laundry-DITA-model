@@ -17,26 +17,26 @@
 #########
 colors:
   primary: 
-    main: '#005687' #Dark Blue
-    s1: '#e1f5fe'
-    s2: '#b3e5fc'
-    s3: '#4fc3f7'
-    s4: '#0288d1'
-    s5: '#186cb8'
+    main: '#cc0000' #wolfpack red
+    s1: '#efb2b2'
+    s2: '#e57f7f'
+    s3: '#db4c4c'
+    s4: '#d11919'
+    s5: '#b70000'
   secondary: 
-    main: '#f44336' #Dark Red
-    s1: '#ffdde0'
-    s2: '#ffcdd2'
-    s3: '#ef9a9a'
-    s4: '#d32f2f'
-    s5: '#b71c1c'
+    main: '#a9c6cb' #Light Seafoam
+    s1: '#dce8ea'
+    s2: '#cbdcdf'
+    s3: '#bad1d5'
+    s4: '#98b2b6'
+    s5: '#768a8e'
   accent1:
-    main: '#f1b211' #Golden rod yellow
-    s1: '#f9f1dc'
-    s2: '#f4dea7'
-    s3: '#f2cb69'
-    s4: '#f0bb34'
-    s5: '#e4a80b'
+    main: '#fac800' #Golden rod yellow
+    s1: '#fef4cc'
+    s2: '#fde999'
+    s3: '#fcde66'
+    s4: '#fbd332'
+    s5: '#e1b400'
   neutrals: # No need to change neutrals
     s1: '#f2f2f2'
     s2: '#e8e9e9'
@@ -52,9 +52,9 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Public Sans, Arial Unicode MS'
-    headings: 'Bebas Neue, Times New Roman'
-    display: 'Monoton'
+    copy: 'Verdana, Arial'
+    headings: 'Britannic Bold, Arial'
+    display: 'Century Schoolbook'
     monospaced: 'Fantasque Sans Mono, Courier New, Courier'
   sizing:
     title: 36pt
@@ -104,12 +104,12 @@ style:
     text-transform: uppercase
   # Heading Styles
   h1:
-    font-family: $fonts-families-display
+    font-family: $fonts-families-headings
     font-size: $fonts-sizing-h1
     letter-spacing: 0.5pt
     color: $colors-primary-main
     # Add numbering in toc, headers, footers, when applicable
-    title-numbering: true
+    title-numbering: false
     break-before: page
   h2:
     font-family: $fonts-families-headings
@@ -117,7 +117,7 @@ style:
     border-after: solid 1pt $colors-primary-s1
     color: $colors-primary-main
     # Add numbering in toc, headers, footers, when applicable
-    title-numbering: true
+    title-numbering: false
   h3:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h3
@@ -135,7 +135,7 @@ style:
     margin-bottom: $spacing-lines-medium
     font-family: $fonts-families-copy
     label:
-      color: $colors-primary-main
+      color: $colors-neutrals-s8
   step:
     keep-together.within-page: always
   substeps:
@@ -159,9 +159,9 @@ style:
     margin-bottom: $spacing-lines-medium
     keep-together.within-page: always
     caution:
-      background-color: $colors-secondary-s1
+      background-color: $colors-primary-s2
     warning:
-      background-color: $colors-secondary-s1
+      background-color: $colors-accent1-s2
   stepresult:
     padding-before: 6pt
     padding-after: 6pt
@@ -172,11 +172,11 @@ style:
     font-family: $fonts-families-monospaced
   table:
     caption:
-      color: $colors-secondary-main
+      color: $colors-neutrals-s8
     font-family: $fonts-families-copy
     font-size: $fonts-sizing-small
     header:
-      background-color: $colors-primary-s1
+      background-color: $colors-secondary-s2
   menucascade:
     font-style: italic
     font-size: $fonts-sizing-uicontrol
@@ -211,7 +211,7 @@ header:
 # DOC FOOTER SETUP
 ###################
 footer:
-  color: $colors-primary-main
+  color: $colors-neutrals-s8
   end-indent: 10mm
   font-family: $fonts-families-headings
   font-size: $fonts-sizing-small
