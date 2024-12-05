@@ -52,12 +52,12 @@ colors:
 ########
 fonts:
   families:
-    copy: 'Verdana, Arial'
-    headings: 'Britannic Bold, Arial'
-    display: 'Century Schoolbook'
+    copy: 'Verdana, Calibri, Arial'
+    headings: 'Britannic Bold, Calibri, Arial'
+    display: 'Britannic Bold'
     monospaced: 'Fantasque Sans Mono, Courier New, Courier'
   sizing:
-    title: 36pt
+    title: 48pt
     h1: 29pt
     h2: 23pt
     h3: 23pt
@@ -101,7 +101,7 @@ style:
     color: $colors-primary-main
     font-family: $fonts-families-display
     font-size: $fonts-sizing-title
-    text-transform: uppercase
+    
   # Heading Styles
   h1:
     font-family: $fonts-families-headings
@@ -114,7 +114,7 @@ style:
   h2:
     font-family: $fonts-families-headings
     font-size: $fonts-sizing-h2
-    border-after: solid 1pt $colors-primary-s1
+    border-after: solid 1pt $colors-secondary-s5
     color: $colors-primary-main
     # Add numbering in toc, headers, footers, when applicable
     title-numbering: false
@@ -150,6 +150,7 @@ style:
   prereq:
     margin-top: $spacing-lines-xlarge
     margin-bottom: $spacing-lines-xlarge
+  
   note:
     background-color: $colors-accent1-s1
     padding-before: $spacing-lines-small
@@ -159,9 +160,13 @@ style:
     margin-bottom: $spacing-lines-medium
     keep-together.within-page: always
     caution:
-      background-color: $colors-primary-s2
+      background-color: $colors-primary-s1
     warning:
-      background-color: $colors-accent1-s2
+      background-color: $colors-accent1-s1
+    attention:
+      background-color: $colors-accent1-s1
+    tip:
+      background-color: $colors-secondary-s2
   stepresult:
     padding-before: 6pt
     padding-after: 6pt
@@ -201,7 +206,7 @@ header:
   padding-before: $spacing-lines-medium
   start-indent: 10mm
   odd:
-    content: '{chapter}'
+    content: '{title}'
     text-align: end
   even:
     content: '{title}'
