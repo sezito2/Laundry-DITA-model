@@ -2,12 +2,12 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_drying_communal_laundry">
   <title>Drying Clothes in University Laundry Machines</title>
-  <shortdesc conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/laundry-shortdesc">
+  <shortdesc conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/communal-shortdesc">
     Laundry shortdesc
   </shortdesc>
   <taskbody>
-    <prereq id="dry-prereq">
-      <p>Residents must use their own dryer sheets or wool balls.</p>
+    <prereq>
+      <p id="dry-prereq">Residents must use their own dryer sheets or wool balls.</p>
     </prereq>
     <steps>
       <step id="dry-load">

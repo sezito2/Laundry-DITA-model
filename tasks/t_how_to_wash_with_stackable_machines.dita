@@ -50,8 +50,10 @@
           <cmd>Press the start button to begin washing.</cmd>
         </step>
       </steps>
-    <postreq conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/laundry-post">
-      <p>laundry postreq</p>
+    <postreq>
+      <p conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/laundry-post">
+       laundry postreq
+      </p>
     </postreq>
 </taskbody>
 </task>

@@ -6,8 +6,8 @@
    Instructions for using stackable laundry machines commonly found in shared housing facilities.
   </shortdesc>
   <taskbody>
-    <prereq conref="t_drying_communal_laundry.dita#t_drying_communal_laundry/dry-prereq">
-      <p>
+    <prereq>
+      <p conref="t_drying_communal_laundry.dita#t_drying_communal_laundry/dry-prereq">
         Students must use their own dryer sheets, wool balls, or any other products they would like to use.
       </p>
       <p>
