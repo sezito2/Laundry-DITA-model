@@ -41,6 +41,10 @@
         <cmd>Press start.</cmd>
       </step>
     </steps>
-    <postreq id="laundry-post">Set a timer to keep track of the time left on the machine. Remove all laundry promptly to allow others to use the machine.</postreq>
+    <postreq>
+      <p id="laundry-post">
+        Set a timer to keep track of the time left on the machine. Remove all laundry promptly to allow others to use the machine.
+      </p>
+    </postreq>
   </taskbody>
 </task>
