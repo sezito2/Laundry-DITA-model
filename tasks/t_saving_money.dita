@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_saving_money_doing_laundry_at_home">
+  <title>How to save money doing laundry at home</title>
+<shortdesc>
+    Learn budget-friendly laundry tips to save money on water, energy, and detergent while ensuring your clothes are clean and well-maintained.
+  </shortdesc>
+  <taskbody>
+    <context>As a student, laundry expenses can add up quickly. Here are some practical tips to save money while making the most of your resources.</context>
+    <steps-unordered>
+      <step><cmd>Wash full loads only: Wait until you have a full load to reduce the number of cycles you need to run. This saves water, energy, and detergent. Avoid overloading, because it can reduce cleaning effectiveness.</cmd></step>
+      <step><cmd>Use cold water: Washing with cold water saves energy because it doesn’t require heating. Most clothes get just as clean in cold water, and it helps prevent colors from fading.</cmd></step>
+      <step><cmd>Choose affordable and efficient detergent: Buy store-brand detergent, which is usually cheaper. Look for concentrated formulas that require less per wash, helping you save money over time.</cmd></step>
+      <step><cmd>Air dry when possible: Avoid using the dryer to save on energy costs. Air drying clothes on a rack or hangers is free, and it also helps your clothes last longer.</cmd></step>
+      <step><cmd>Skip fabric softener: Fabric softeners can be an extra cost, and they’re not necessary for every load.</cmd></step>
+      <step><cmd>Clean your washing machine regularly: A clean washer operates more efficiently, helping your clothes come out cleaner in less time. Run an empty cycle with vinegar once a month to remove buildup.</cmd></step>
+    </steps-unordered>
+  </taskbody>
+  </task>
