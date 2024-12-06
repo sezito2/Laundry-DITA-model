@@ -2,35 +2,35 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_drying_communal_laundry">
   <title>Drying Clothes in University Laundry Machines</title>
-  <shortdesc conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/laundry-shortdesc">
+  <shortdesc conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/communal-shortdesc">
     Laundry shortdesc
   </shortdesc>
   <taskbody>
     <prereq>
-      <p>Residents must provide their own dryer sheets or wool balls if desired.</p>
+      <p id="dry-prereq">Residents must use their own dryer sheets or wool balls.</p>
     </prereq>
     <steps>
-      <step importance="optional">
+      <step id="dry-load">
         <cmd>
-          Separate clothes based on color and/or fabric type.
+          Load wet clothes into the dryer drum.
         </cmd>
-      </step>
-      <step>
-        <cmd>Load wet clothes into the dryer drum.</cmd>
         <info>
           <note type="caution">
             Check the lint trap to ensure it is clean.
           </note>
         </info>
       </step>
-      <step audience="student">
+      <step importance="optional" id="dryer-sheets">
+        <cmd>Add a dryer sheet or wool balls.</cmd>
+      </step>
+      <step audience="student" id="dry-door">
         <cmd>Close the dryer door.</cmd>
       </step>
       <step>
         <!-- Should you elaborate on this step with more fidelity for novices? What mode works with what situation? A choicetable would be helpful here: https://www.oxygenxml.com/dita/1.3/specs/langRef/technicalContent/choicetable.html -->
 
         <!--I think there was a miscommunication between Polina and I. This topic is not meant for novices; this user already has experience with washing laundry, just not these specific machines. I went ahead and changed the audience type-->
-        <cmd>Select the desired mode with the correct control panel</cmd>
+        <cmd id="dry-settings">Select your settings with the dryer's control panel</cmd>
         <info>
           <note type="tip">
             The right panel controls the bottom dryer and the left panel controls the top dryer.
@@ -42,7 +42,9 @@
       </step>
     </steps>
     <postreq>
-      <p>Residents are encouraged to set a timer to keep track of time remaining on the machine. Remove all laundry promptly to allow others to use the machine.</p>
+      <p conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/laundry-post">
+        timer postreq
+      </p>
       <note type="caution">Clean the lint trap when the cycle is finished to reduce the risk of fire.</note>
     </postreq>
   </taskbody>
