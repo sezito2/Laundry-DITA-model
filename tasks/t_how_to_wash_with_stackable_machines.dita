@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_how_to_wash_with_stackable_machines.dita">
-<title>Washing Clothes in a Stackable Machine</title>
-  <shortdesc>Instructions for using stackable laundry machines commonly found in shared housing facilities.</shortdesc>
-  <prolog>
-    <metadata>
-    <audience type="laundry-user" experiencelevel="novice"/>
-    </metadata>
-  </prolog>
-<taskbody>
-  <prereq>
-      <p>Students must use their own laundry detergent, fabric softener, bleach, and any other cleaning agents they would like to use.</p>
+  <title>Washing Clothes in a Stackable Machine</title>
+  <shortdesc id="stackable-shortdesc">
+      University Housing apartments have an in-unit stackable laundry machine. Stackable machines are free for residents.
+  </shortdesc>
+    <prolog>
+      <metadata>
+      <audience type="laundry-user" experiencelevel="novice"/>
+      </metadata>
+    </prolog>
+  <taskbody>
+    <prereq>
+      <p conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/wash-prereq">
+        washing materials
+      </p>
+      <p>
+        <note type="note">The stackable's bottom machine is the washing machine.</note>
+      </p>
     </prereq>
-      <steps>
+    <!-- Since the instructions are the same as communal I have used a conref for the steps-->
+      <steps conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/wash-laundry-steps">
         <step>
           <cmd>Put dirty clothes in the washing machine drum located at the bottom of the stackable unit.</cmd>
         </step>
         <step importance="optional">
-            <cmd>Separate clothes by color and fabric type to prevent damage or color bleeding.</cmd>
+          <cmd>Separate clothes by color and fabric type to prevent damage or color bleeding.</cmd>
         </step>
         <step>
           <cmd>Add the appropriate amount of detergent to the washing machine.</cmd>
@@ -42,6 +50,8 @@
           <cmd>Press the start button to begin washing.</cmd>
         </step>
       </steps>
-    <postreq>Users can always set a personal timer to keep track of the remaining wash and dry time.</postreq>
+    <postreq conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/laundry-post">
+      <p>laundry postreq</p>
+    </postreq>
 </taskbody>
 </task>

@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_drying_communal_laundry">
   <title>Drying Clothes in a Stackable Machine</title>
-  <shortdesc>Instructions for using stackable laundry machines commonly found in shared housing facilities.</shortdesc>
+  <shortdesc conref="t_how_to_wash_with_stackable_machines.dita#t_how_to_wash_with_stackable_machines.dita/stackable-shortdesc">
+   Instructions for using stackable laundry machines commonly found in shared housing facilities.
+  </shortdesc>
   <taskbody>
     <prereq>
       <p>Students must use their own dryer sheets, wool balls, or any other products they would like to use.</p>
