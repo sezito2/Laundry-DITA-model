@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t_fabric_types">
+  <title>Fabric Types</title>
+  <shortdesc>Choose the best washing method based on water temperature and fabric type.</shortdesc>
+  <taskbody>
+    <context>Select the appropriate washing method to preserve fabric quality and maintain its appearance.</context>
+    <steps-unordered>
+      <step>
+        <cmd>Identify the fabric type you are washing.</cmd>
+        <substeps>
+          <substep importance="required">
+            <cmd>Determine whether the fabric is natural (e.g., silk, wool, cotton) or synthetic (e.g., polyester, nylon).</cmd>
+          </substep>
+          <substep importance="optional">
+            <cmd>Consider any specific fabric care instructions provided on the label.</cmd>
+          </substep>
+        </substeps>
+      </step>
+      <step>
+        <cmd>Choose the appropriate water temperature.</cmd>
+        <choicetable>
+          <chhead>
+            <choptionhd>Water Temperature</choptionhd>
+            <chdeschd>Suitable Fabrics</chdeschd>
+          </chhead>
+          <chrow>
+            <choption>Cold</choption>
+            <chdesc>Silk, Wool, Cashmere</chdesc>
+          </chrow>
+          <chrow>
+            <choption>Warm</choption>
+            <chdesc>Cotton, Polyester</chdesc>
+          </chrow>
+          <chrow>
+            <choption>Hot</choption>
+            <chdesc>Sturdy Cotton, Polyester</chdesc>
+          </chrow>
+        </choicetable>
+      </step>
+      <step>
+        <cmd>Follow fabric-specific recommendations for washing.</cmd>
+        <substeps>
+          <substep importance="required">
+            <cmd>Use a mild detergent for delicate fabrics like silk or wool.</cmd>
+          </substep>
+          <substep importance="optional">
+            <cmd>Air dry or use a low heat setting for sensitive fabrics to avoid damage.</cmd>
+          </substep>
+        </substeps>
+      </step>
+    </steps-unordered>
+  </taskbody>
+</task>
