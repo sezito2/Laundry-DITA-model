@@ -2,33 +2,37 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_washing_communal_laundry">
   <title>Washing Clothes in University Laundry Machines</title>
-  <shortdesc>University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines</shortdesc>
+  <shortdesc id="communal-shortdesc">
+    University Housing offers all residents living on campus access to laundry facilities. Laundry machines are free for all residents.
+  </shortdesc>
   <taskbody>
     <prereq>
-      <p>Residents must provide their own detergents, fabric softeners, bleach, and other cleaning agents.</p>
+      <p id="wash-prereq">
+        Residents must use their own laundry detergents, fabric softeners, bleach, and other cleaning agents.
+      </p>
     </prereq>
-    <steps>
+    <steps id="wash-laundry-steps">
+      <step importance="optional">
+        <cmd>Separate clothes based on color or fabric type.</cmd>
+      </step>
       <step>
         <cmd>Load dirty clothes into the washing machine drum.</cmd>
-        <choices>
-          <choice>Optional: separate clothes based on color and/or fabric type.</choice>
-        </choices>
       </step>
       <step>
         <cmd>Add detergent to the washer.</cmd>
         <choices>
           <choice>If using detergent pods, place the pod directly in the washing machine drum.</choice>
-          <choice>If using liquid detergent, pour detergent into the detergent compartment in the drawer.</choice>
+          <choice>If using liquid detergent, pour into the dispenser drawer.</choice>
         </choices>
       </step>
       <step importance="optional">
-        <cmd>Add bleach and/or fabric softener to the drawer.</cmd>
+        <cmd>Add bleach and/or fabric softener to the dispenser drawer.</cmd>
       </step>
       <step>
         <cmd>Close door firmly.</cmd>
       </step>
       <step>
-        <cmd>Configure the settings with the control panel.</cmd>
+        <cmd>Select your settings with the control panel.</cmd>
         <info>
           <note type="note">Settings will revert to default after each cycle.</note>
         </info>
@@ -37,6 +41,6 @@
         <cmd>Press start.</cmd>
       </step>
     </steps>
-    <postreq>Residents are encouraged to set a timer to keep track of time remaining on the machine. Remove all laundry promptly to allow others to use the machine.</postreq>
+    <postreq id="laundry-post">Set a timer to keep track of the time left on the machine. Remove all laundry promptly to allow others to use the machine.</postreq>
   </taskbody>
 </task>

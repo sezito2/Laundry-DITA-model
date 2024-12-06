@@ -2,8 +2,8 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_drying_communal_laundry">
   <title>Drying Clothes in University Laundry Machines</title>
-  <shortdesc>
-    University Housing offers all residents living on campus access to laundry facilities. Residents do not need to pay to use the machines.
+  <shortdesc conref="t_washing_communal_laundry.dita#t_washing_communal_laundry/laundry-shortdesc">
+    Laundry shortdesc
   </shortdesc>
   <taskbody>
     <prereq>

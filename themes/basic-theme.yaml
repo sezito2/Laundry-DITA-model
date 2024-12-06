@@ -166,7 +166,7 @@ style:
     attention:
       background-color: $colors-accent1-s1
     tip:
-      background-color: $colors-secondary-s2
+      background-color: $colors-secondary-main
   stepresult:
     padding-before: 6pt
     padding-after: 6pt
@@ -181,7 +181,7 @@ style:
     font-family: $fonts-families-copy
     font-size: $fonts-sizing-small
     header:
-      background-color: $colors-secondary-s2
+      background-color: $colors-secondary-main
   menucascade:
     font-style: italic
     font-size: $fonts-sizing-uicontrol
