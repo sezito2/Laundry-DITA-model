@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_how_to_remove_oil">
 <title>Removing Oil-Based Stains</title>
-  <shortdesc>Instructions for removing oil-based stains from cotton or cotton-blend fabrics.</shortdesc>
+  <shortdesc>Instructions for removing oil-based stains from cotton or cotton-blend fabrics. Acting quickly to remove oil-based stains can prevent clothes from being ruined.</shortdesc>
   <prolog>
     <metadata>
       <audience type="laundry-user" experiencelevel="novice"/>
@@ -30,15 +30,18 @@
           <choice>For fresh stains without solid residue, blot the area with a paper towel or napkin.</choice>
           <choice>For solid residue, gently lift it with a dull knife or spoon.</choice>
         </choices>
+        <info>
+          <note type="attention">Do not rub the stain without a cleaning solvent, as this can push oil deeper into the fabric.</note>
+        </info>
       </step>
       <step importance="optional">
         <cmd>For older or set-in stains, apply a small amount of WD-40 with a cotton swab.</cmd>
       </step>
       <step>
-        <cmd>Generously apply cornstarch or talcum powder to the stain to absorb as much oil as possible.</cmd>
+        <cmd>Apply cornstarch or talcum powder generously to the stain to absorb excess oil.</cmd>
       </step>
       <step>
-        <cmd>Allow the powder to sit on the stain for about 15 minutes to fully absorb the oil</cmd>
+        <cmd>Allow the powder to sit on the stain for about 15 minutes.</cmd>
       </step>
       <step>
         <cmd>Brush the powder away with a soft-bristled brush.</cmd>
@@ -58,14 +61,12 @@
       <step>
         <cmd>Examine the stained area after washing.</cmd>
         <info>
-          <note type="attention">Do not use a dryer until the stain is fully removed. Air-dry if unsure, as heat can set the stain permanently.</note>
+          <note type="attention">Do not use a dryer until the stain is fully removed.</note>
         </info>
       </step>
     </steps>
     <postreq>
       <p>
-        <note type="tip">Act quickly to prevent oil stains from setting, as this makes them harder to remove.</note>
-        <note type="attention">Do not rub the stain without a cleaning solvent, as this can push oil deeper into the fabric.</note>
         <note type="attention">Always confirm the stain is removed before using a dryer, as heat can make the stain permanent.</note>
       </p>
     </postreq>

@@ -9,148 +9,73 @@
     </metadata>
   </prolog>
   <taskbody>
-    <prereq>The following materials are needed:
-      <ul>
-        <li>Liquid laundry detergent</li>
-        <li>Powdered laundry detergent</li>
-        <li>White vinegar</li>
-        <li>Laundry stain remover</li>
-        <li>Dishwashing liquid (optional)</li>
-        <li>Oxygen bleach laundry detergent (optional)</li>
-        <li>Salt or baby powder (for fresh stains)</li>
-        <li>Toothbrush</li>
-        <li>Paper towels or cloth</li>
-      </ul>
-    </prereq>
-   <!-- I moved the following section into a brief concept topic -Sami
-    <context>
-      <p>Always check the care label before starting any stain removal process. The care label provides important information, such as:
+    <prereq>
+      <p>Materials needed
         <ul>
-          <li>**Water Temperature**: Some fabrics may shrink or get damaged in hot water, while cotton can generally withstand warmer temperatures.</li>
-          <li>**Cleaning Agents**: Certain fabrics are sensitive to specific chemicals, which can cause damage. Cotton is usually tolerant of stronger cleaning agents, but delicates like silk or acetate may require gentler products.</li>
-          <li>**Drying Instructions**: The label indicates if the fabric should be machine dried, air-dried, or kept away from heat to avoid damage. Cotton is more heat-resistant, while synthetic fibers may shrink or warp.</li>
-          <li>**Stain Removal Methods**: Some fabrics, like synthetics, may react poorly to common stain removers. Checking the label helps identify the safest cleaning method for each fabric type.</li>
+          <li>Liquid laundry detergent</li>
+          <li>Powdered laundry detergent</li>
+          <li>White vinegar</li>
+          <li>Laundry stain remover</li>
+          <li>Toothbrush</li>
+          <li>Paper towels or cloth</li>
+          <li>Dishwashing liquid (optional)</li>
+          <li>Salt or baby powder (for fresh stains)</li>
         </ul>
       </p>
-    </context> -->
-   
+    </prereq>
     <steps>
       <step>
-        <cmd>Rinse the coffee stain with cold water from the backside of the fabric.</cmd>
+        <cmd>Rinse the coffee stain with cold water from the back of the fabric.</cmd>
         <info>
           <note type="tip">For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.
           </note>
         </info>
+        <substeps>
+          <substep>
+            <cmd>Rinse for 10-15 minutes, or until the water runs clear.</cmd>
+          </substep>
+        </substeps>
       </step>
       <step>
-        <cmd>Continue rinsing with cold water for 10-15 minutes, or until the water runs clear.</cmd>
-      </step>
-      <step>
-        <cmd>Apply liquid laundry detergent or dish soap directly to the stain and gently rub it in with your fingers.</cmd>
+        <cmd>Apply liquid laundry detergent or dish soap directly to the stain.  rub it in with your fingers.</cmd>
+        <substeps>
+          <substep>
+            <cmd>Rub the soap in gently with your fingers.</cmd>
+          </substep>
+        </substeps>
         <choices>
-          <choice>For fresh stains, allow the detergent to sit for 3-5 minutes before rinsing.</choice>
-          <choice>For older stains, soak the garment in cold water for 30 minutes after applying detergent, gently rubbing the fabric every 5 minutes to loosen the stain.</choice>
+          <choice>For fresh stains, let the detergent sit for 3-5 minutes before rinsing.</choice>
+          <choice>For older stains, soak the garment in cold water for 30 minutes after applying detergent. Gently rub the fabric every 5 minutes to loosen the stain.</choice>
         </choices>
       </step>
       <step importance="optional">
         <cmd>If the stain remains, create a paste using powdered laundry detergent, water, and white vinegar. Apply the paste to the stain and use an old toothbrush to scrub it into the stain.</cmd>
-          <info>
-            <note type="caution">Test the paste on a hidden area of the garment to ensure it does not discolor the fabric before applying to the stain.</note>
-          </info>
           <substeps>
             <substep>
-              <cmd>For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</cmd>
+              <cmd>Apply the paste to the stain.</cmd>
+            </substep>
+            <substep>
+              <cmd>Use a toothbrush to scrub the paste into the stain</cmd>
             </substep>
           </substeps>
-      </step>
-      <step>
-        <cmd>Apply a stain remover spray or gel to the area and let it sit for 5 minutes before laundering as usual.</cmd>
-        <substeps>
-          <substep importance="optional"><cmd>If it's available, use an oxygen bleach laundry detergent as the stain remover for enhanced stain-lifting power.</cmd></substep>
-        </substeps>
-      </step>
-      <step>
-        <cmd>Look at the stain before drying to ensure it has been completely removed.</cmd>
         <info>
-          <note type="tip">Hold clothes up to a bright light to check for any remaining problems. If any hint of the stain remains, repeat the treatment steps.</note>
+          <note type="caution">Test the paste on a hidden area of the garment to ensure it does not discolor the fabric before applying to the stain.</note>
+          <note type="note">For fresh stains, apply salt or baby powder to absorb excess coffee before rinsing. Allow the powder to sit for a few minutes, then rinse.</note>
+        </info>
+      </step>
+      <step>
+        <cmd>Apply a stain remover to the area and let sit for 5 minutes before washing as normal.</cmd>
+      </step>
+      <step>
+        <cmd>Ensure the stain is gone before drying.</cmd>
+        <info>
+          <note type="tip">Hold clothes up to a bright light to check for any remaining stain. Repeat treatment steps if stain is not gone.</note>
         </info>
       </step>
     </steps>
     <postreq>
-      <p>Air-dry the clothes to prevent heat from getting any other stain. Avoid machine drying until the stain is fully removed.</p>
-      <p>For pure white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and then wash as usual.</p>
+      <p>Avoid machine drying until the stain is fully removed.</p>
+      <p>For white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and wash as normal.</p>
     </postreq>
   </taskbody>
 </task>
-    <!-- This is up to where I edited this doc. There are still errors in here possibly from having sections (Whenver I have written a task topic dita doesn't like sections) -Sami -->
-  <!-- <section>
-      <title>Instructions for removing oil stains</title>
-</section>
-  <title>Materials needed</title>
-  <ul>
-    <li>Heavy-duty laundry detergent</li>
-    <li>Enzyme-based stain remover (spray or gel)</li>
-    <li>Cornstarch or talcum powder</li>
-    <li>Soft-bristled brush</li>
-    <li>Dull knife, spoon</li>
-    <li>Small bowl</li>
-    <li>Paper towels or napkins</li>
-    <li>WD-40 (for set-in stains)</li>
-  </ul>
-</section>
-<steps>
-    <step>
-      <cmd>Gently lift away any solid oil residue with the edge of a dull knife or spoon (if needed).</cmd>
-      <choices>
-        <choice>If the stain is fresh and there is no solid residue, blot the oily area with a paper towel or napkin to absorb excess oil.</choice>
-      </choices>
-    </step>
-    <step>
-      <cmd>Generously apply cornstarch or talcum powder to the stain to absorb as much oil as possible.</cmd>
-      <info>Allow the powder to sit on the stain for about 15 minutes to fully absorb the oil.</info>
-    </step>
-    <step>
-      <cmd>Brush the powder away with a soft-bristled brush.</cmd>
-    </step>
-    <step>
-      <cmd>Pretreat the stain with an enzyme-based stain remover spray or gel.</cmd>
-      <info>Let the stain remover sit on the stain for at least 15-30 minutes to allow enzymes to break down the oil.</info>
-      <choices>
-        <choice>If an enzyme-based remover isn't available, apply a heavy-duty liquid detergent directly to the stain and gently work it in with a soft-bristled brush or by rubbing the fabric with your fingers.</choice>
-        <choice>For powdered detergent, make a paste with warm water and apply it to the stain.</choice>
-      </choices>
-    </step>
-    <step>
-      <cmd>Wash the clothes in the hottest water recommended for the fabric, using the recommended amount of heavy-duty laundry detergent.</cmd>
-    </step>
-    <step>
-      <cmd>Look at the stained area after washing.</cmd>
-      <info>Do not put the clothes in the dryer until you are confident that the stain has been removed. Air-dry the clothes if you’re unsure, as dryer heat can set in the stain permanently.</info>
-    </step>
-    <postreq>
-      <p>If the stain is older or set-in, follow these additional steps:</p>
-      <steps>
-        <step>
-          <cmd>Place a white towel under the stained area to protect the rest of the clothing item.</cmd>
-        </step>
-        <step>
-          <cmd>Using a cotton swab or paper towel, carefully dab a small amount of WD-40 onto the stained area.</cmd>
-          <info>Do not use a large amount, as this may cause the stain to spread.</info>
-        </step>
-        <step>
-          <cmd>Apply cornstarch or talcum powder to the area, then gently brush with a soft-bristled brush until the powder forms clumps, lifting the oil from the stain.</cmd>
-          <info>Remove the clumps and repeat until only fine powder remains.</info>
-        </step>
-        <step>
-          <cmd>Pretreat with a stain remover or heavy-duty laundry detergent and allow it to sit for 15-30 minutes before laundering as usual.</cmd>
-        </step>
-      </steps>
-        <choices>
-          <choice>Avoid letting oil stains sit on the fabric too long, as this can make them more difficult to remove.</choice>
-          <choice>Do not rub or scrub the stain without a cleaning solvent, as this can push the oil further into the fibers.</choice>
-          <choice>Always confirm the stain is fully removed before putting clothes in the dryer, as heat can set the stain permanently.</choice>
-        </choices>
-      </steps>
-    </postreq>
-  </taskbody>
-</task>-->
