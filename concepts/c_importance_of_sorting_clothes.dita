@@ -9,11 +9,15 @@
     <p>Sorting clothes by color and fabric type is an essential step in the laundry process.</p>
     <p>Here are the main reasons why sorting clothes is important:</p>
     <ul>
-      <li><b>Prevents color bleeding:</b> Washing dark or bright colors with whites can cause color transfer, causing staining and dulling of lighter clothes.
-        <image href="../assets/images/How-to-remove-color-bleeding-from-clothes.jpg" alt="Color bleeding example"/>
+      <li>
+        <p><b>Prevents color bleeding:</b> Washing dark or bright colors with whites can cause color transfer, causing staining and dulling of lighter clothes.</p>
+        <p>
+          <image href="../assets/images/How-to-remove-color-bleeding-from-clothes.jpg" alt="Color bleeding example"/>
+        </p>
       </li>
-      <li><b>Preserves fabric quality:</b> Sorting allows for gentle washing of delicate fabrics and helps prevent shrinkage/damage caused by heavier items.
-        <image href="..assets/images/laundry_myths_shrunk_clothes_183oopi-183oopk.jpg" alt="Example of clothes shrunk from improper washing"/>
+      <li>
+        <p><b>Preserves fabric quality:</b> Sorting allows for gentle washing of delicate fabrics and helps prevent shrinkage/damage caused by heavier items.</p>
+        <p><image href="../assets/images/shrunk.jpg" alt="Example of clothes shrunk from improper washing"/></p>
       </li>
       <li><b>Ensures effective cleaning:</b> Dirtier clothes need more detergent or a longer washing cycle, while lightly soiled clothes can be washed with a shorter cycle.
       </li>

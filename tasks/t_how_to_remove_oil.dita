@@ -59,15 +59,12 @@
         <cmd>Wash the clothes in the hottest water recommended for the fabric, using the recommended amount of heavy-duty laundry detergent.</cmd>
       </step>
       <step>
-        <cmd>Examine the stained area after washing.</cmd>
-        <info>
-          <note type="attention">Do not use a dryer until the stain is fully removed.</note>
-        </info>
+        <cmd>Examine the area after washing to ensure the stain is fully-removed.</cmd>
       </step>
     </steps>
     <postreq>
       <p>
-        <note type="attention">Always confirm the stain is removed before using a dryer, as heat can make the stain permanent.</note>
+        <note type="attention">Do not use a dryer until the stain is fully removed. Heat can make the stain permanent.</note>
       </p>
     </postreq>
   </taskbody>

@@ -5,6 +5,7 @@
   
   <topicref type="concept" href="concepts\c_care_labels.dita" navtitle="Understaning Care Labels">
     <topicref type="concept" href="concepts\c_importance_of_sorting_clothes.dita" navtitle="Importance of Sorting Clothes"/>
+    <topicref type="task" href="tasks\t_fabric_types.dita" navtitle="Caring for Different Fabric Types"/>
   </topicref>
   <topicref type="concept" href="concepts\c_stain_science.dita" navtitle="The Science of Stain Removal">
     <topicref type="task" href="tasks\t_how_to_remove_coffee.dita" navtitle="How to Remove Coffee Stains"/>
