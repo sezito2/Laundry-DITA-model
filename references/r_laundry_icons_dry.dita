@@ -2,8 +2,8 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_laundry_icons_dry">
   <title>Laundry Icons for Drying Clothes</title>
-    <shortdesc audience="novice">
-    Clothing tags often include instructions for how to best dry the article of clothing. These instructions are indicated through universal icons.
+    <shortdesc audience="novice" id="icons-shortdesc">
+    Clothing tags include instructions for best care practices. These instructions are shown through universal icons.
   </shortdesc>
   <prolog>
     <metadata>
