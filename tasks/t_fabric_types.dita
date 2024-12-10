@@ -28,18 +28,18 @@
             <chdesc>Silk, Wool, Cashmere 
               <image href="../assets/images/silk.jpg" alt="Silk"/>
               <image href="../assets/images/wool.jpg" alt="Wool"/>
-              <image href="../assets/images/cashmere.jpg" alt="Cashmere"/></chdesc>
-            </chrow>
+            </chdesc>
+          </chrow>
           <chrow>
             <choption>Warm</choption>
-            <chdesc>Cotton, Polyester 
+            <chdesc>Cotton, Linen, Polyester           
               <image href="../assets/images/cotton.jpg" alt="Cotton"/>
               <image href="../assets/images/polyester.jpg" alt="Polyester"/>
             </chdesc>
           </chrow>
           <chrow>
             <choption>Hot</choption>
-            <chdesc>Sturdy Cotton, Polyester</chdesc>
+            <chdesc>Sturdy Cotton &amp; Polyester</chdesc>
           </chrow>
         </choicetable>
       </step>

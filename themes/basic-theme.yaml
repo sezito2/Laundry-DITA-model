@@ -182,6 +182,16 @@ style:
     font-size: $fonts-sizing-small
     header:
       background-color: $colors-secondary-main
+  choicetable:
+    caption:
+      color: $colors-neutrals-s8
+    font-family: $fonts-families-copy
+    font-size: $fonts-sizing-small
+    chead:
+      choptionhd:
+        background-color: $colors-secondary-main
+      chdeschd:
+        background-color: $colors-secondary-main
   menucascade:
     font-style: italic
     font-size: $fonts-sizing-uicontrol
