@@ -26,12 +26,12 @@
           </chhead>
           <chrow>
             <choption>Cold</choption>
-            <chdesc>Silk, Wool, Cashmere</chdesc>
-          </chrow>
+            <chdesc>Silk, Wool, Cashmere <image href="../assets/images/silk.jpg" alt="Silk"/><image href="../assets/images/wool.jpg" alt="Wool"/><image href="../assets/images/cashmere.jpg" alt="Cashmere"/></chdesc>
+            </chrow>
           <chrow>
             <choption>Warm</choption>
-            <chdesc>Cotton, Polyester</chdesc>
-          </chrow>
+            <chdesc>Cotton, Polyester <image href="../assets/images/cotton.jpg" alt="Cotton"/> <image href="../assets/images/polyester.jpg" alt="Polyester"/></chdesc>
+            </chrow>
           <chrow>
             <choption>Hot</choption>
             <chdesc>Sturdy Cotton, Polyester</chdesc>
