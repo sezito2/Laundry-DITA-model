@@ -2,7 +2,7 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="c_importance_of_sorting_clothes">
   <title>Importance of sorting clothes</title>
-  <shortdesc>
+  <shortdesc audience="novice">
   Clothes made from different fabrics react differently to washing conditions. For example, natural fibers like cotton and wool are prone to shrinkage in hot water, whereas synthetic fibers like polyester are more heat-resistant.  Sorting clothes before washing helps prevent damage, preserves fabric quality, and maintains colors.
   </shortdesc>
   <conbody>
@@ -11,13 +11,13 @@
     <ul>
       <li>
         <p>Prevents color bleeding: Washing dark or bright colors with whites can cause color transfer, leading to staining and dulling of lighter clothes.</p>
-        <image href="assets/images/How-to-remove-color-bleeding-from-clothes.jpg" alt="Color bleeding example"/>
+        <image href="../assets/images/How-to-remove-color-bleeding-from-clothes.jpg" alt="Color bleeding example"/>
       </li>
       <li>
         <p>
           Preserves fabric quality: Sorting by fabric type, such as delicates and heavy items, allows for gentle washing of delicate fabrics and helps prevent shrinkage and damage caused by rougher items.
         </p>
-        <image href="assets/images/laundry_myths_shrunk_clothes_183oopi-183oopk.jpg" alt="Example of clothes shrunk from improper washing"/>
+        <image href="...assets/images/laundry_myths_shrunk_clothes_183oopi-183oopk.jpg" alt="Example of clothes shrunk from improper washing"/>
       </li>
       <li>
         <p>Ensures effective cleaning: Heavily soiled items may need more detergent or a different washing cycle, while lightly soiled clothes can be washed with a shorter or gentler cycle.</p>
