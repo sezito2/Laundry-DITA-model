@@ -2,9 +2,12 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="scenario-three-map">
   <title>Laundry as an Off-Campus NC State Student</title>
-  <topicref type="task" href="tasks\t_saving_money.dita" navtitle="Saving money by doing laundry at home">
+  <topicref type="task" href="tasks\t_saving_money.dita" navtitle="Budget-Friendly Laundry Tips"/>
+  <topicref type="concept" href="concepts\c_stain_science.dita" navtitle="The Science of Stain Removal">
     <topicref type="task" href="tasks\t_how_to_remove_coffee.dita" navtitle="How to Remove Coffee Stains"/>
     <topicref type="task" href="tasks\t_how_to_remove_oil.dita" navtitle="How to Remove Oil-Based Stains"/>
+  </topicref>
+  <topicref type="concept" href="concepts\c_care_labels.dita" navtitle="Understaning Care Labels">
     <topicref type="concept" href="concepts\c_importance_of_sorting_clothes.dita" navtitle="Importance of Sorting Clothes">
       <topicref type="task" href="tasks\t_fabric_types.dita" navtitle="Caring for Different Fabric Types"/>
       <topicref type="reference" href="references\r_laundry_icons_wash.dita" navtitle="Wash icons on clothing tags"/>

@@ -150,6 +150,19 @@ style:
   prereq:
     margin-top: $spacing-lines-xlarge
     margin-bottom: $spacing-lines-xlarge
+  section:
+    title:
+      font-family: $fonts-families-headings
+      font-size: $fonts-sizing-h4
+      color: $colors-primary-main
+
+#I tried a few things to get the dl table to look nicer but couldn't figure anything out. I'm not sure if YAML has this ability -sami
+  dl:
+    term-width: 20%
+    dlentry:
+      dt:
+        margin-after: 6pt
+
   
   note:
     background-color: $colors-accent1-s1

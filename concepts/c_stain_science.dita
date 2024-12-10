@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="c_stain_science">
+  <title>The Science of Stain Removal</title>
+  <shortdesc>
+    Stain removal involves breaking down or lifting stains from fabric. Knowing the type of stain and the right cleaning method can make the process easier.
+  </shortdesc>
+  <conbody>
+    <section>
+      <title>Types of Stains</title>
+      <p>Different types of stains need different treatments:</p>
+      <dl>
+        <dlentry>
+          <dt>Protein stains</dt>
+          <dd>Stains from organic materials ex. blood, sweat, egg. Use cleaners with enzymes.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Oil stains</dt>
+          <dd>Greasy stains from butter, oils, makeup, etc. Use soap or detergents to break up the oil.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Tannin stains</dt>
+          <dd>Plant-based stains ex. coffee, tea, wine. Use a mild acidic cleaner like vinegar.</dd>
+        </dlentry>
+        <dlentry>
+          <dt>Dye stains</dt>
+          <dd>Pigments that discolor fabics ex. ink, berries. Use special cleaners or bleach to remove.</dd>
+        </dlentry>
+      </dl>
+    </section>
+    <section>
+      <title>Helpful Cleaning Ingredients</title>
+      <p>These ingredients help remove stains:</p>
+      <ul>
+        <li><b>Soap and detergents:</b> Lift dirt and grease.</li>
+        <li><b>Enzymes:</b> Break down tough stains like food or sweat.</li>
+        <li><b>Bleach:</b> Lightens or removes color stains.</li>
+        <li><b>Solvents:</b> Help dissolve sticky or oily stains.</li>
+      </ul>
+    </section>
+    <section>
+     <title>Temperature and Water Type</title>
+      <p>Water temperature affects stain removal:</p>
+      <ul>
+        <li>Cold water for protein-based stains.</li>
+        <li>Warm water for food stains to activate enzymes in cleaners.</li>
+        <li>Hot water is good for greasy stains, but not on delicate fabrics.</li>
+      </ul>
+   </section>
+   <section>
+    <title>Common Mistakes to Avoid</title>
+      <p>Here are some common mistakes and how to avoid them:</p>
+      <ul>
+        <li>Using hot water on protein-based stains makes them set in the fabric.</li>
+        <li>Rubbing stains hard can push them deeper into the fabric.</li>
+        <li>Using the wrong cleaner for the stain type.</li>
+      </ul>
+    </section>
+  </conbody>
+</concept>
