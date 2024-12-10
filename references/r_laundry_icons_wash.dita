@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="r_laundry_icons_wash">
   <title>Laundry Icons for Washing Clothes</title>
-  <shortdesc>
+  <shortdesc conref="icons-shortdesc">
     Clothing tags often include instructions for how to best wash the article. These instructions are indicated through universal icons.
   </shortdesc>
     <prolog>
