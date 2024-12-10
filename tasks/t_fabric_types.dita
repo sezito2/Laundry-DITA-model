@@ -26,7 +26,10 @@
           </chhead>
           <chrow>
             <choption>Cold</choption>
-            <chdesc>Silk, Wool, Cashmere <image href="../assets/images/silk.jpg" alt="Silk"/><image href="../assets/images/wool.jpg" alt="Wool"/><image href="../assets/images/cashmere.jpg" alt="Cashmere"/></chdesc>
+            <chdesc>Silk, Wool, Cashmere 
+              <image href="../assets/images/silk.jpg" alt="Silk"/>
+              <image href="../assets/images/wool.jpg" alt="Wool"/>
+              <image href="../assets/images/cashmere.jpg" alt="Cashmere"/></chdesc>
             </chrow>
           <chrow>
             <choption>Warm</choption>
