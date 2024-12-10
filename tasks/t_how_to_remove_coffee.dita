@@ -10,7 +10,8 @@
   </prolog>
   <taskbody>
     <prereq>
-      <p>Materials needed
+      <p>
+        Materials needed
         <ul>
           <li>Liquid laundry detergent</li>
           <li>Powdered laundry detergent</li>
@@ -70,12 +71,17 @@
         <cmd>Ensure the stain is gone before drying.</cmd>
         <info>
           <note type="tip">Hold clothes up to a bright light to check for any remaining stain. Repeat treatment steps if stain is not gone.</note>
+          <note type="tip"></note>
         </info>
       </step>
     </steps>
     <postreq>
-      <p>Avoid machine drying until the stain is fully removed.</p>
-      <p>For white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and wash as normal.</p>
+      <p>
+        <note conref="t_how_to_remove_oil.dita#t_how_to_remove_oil/stain-dry">do not dry</note>
+      </p>
+      <p>
+        For white clothing with lingering stains, mix 1/4 cup chlorine bleach with 1 gallon of water, soak for 5 minutes, rinse thoroughly, and wash as normal.
+      </p>
     </postreq>
   </taskbody>
 </task>

@@ -6,22 +6,34 @@
   Fabrics react differently to washing conditions. Sorting clothes before washing helps prevent damage, preserves fabric quality, and maintains colors.
   </shortdesc>
   <conbody>
-    <p>Sorting clothes by color and fabric type is an essential step in the laundry process.</p>
-    <p>Here are the main reasons why sorting clothes is important:</p>
-    <ul>
-      <li>
-        <p><b>Prevents color bleeding:</b> Washing dark or bright colors with whites can cause color transfer, causing staining and dulling of lighter clothes.</p>
-        <p>
-          <image href="../assets/images/How-to-remove-color-bleeding-from-clothes.jpg" alt="Color bleeding example"/>
-        </p>
-      </li>
-      <li>
-        <p><b>Preserves fabric quality:</b> Sorting allows for gentle washing of delicate fabrics and helps prevent shrinkage/damage caused by heavier items.</p>
-        <p><image href="../assets/images/shrunk.jpg" alt="Example of clothes shrunk from improper washing"/></p>
-      </li>
-      <li><b>Ensures effective cleaning:</b> Dirtier clothes need more detergent or a longer washing cycle, while lightly soiled clothes can be washed with a shorter cycle.
-      </li>
-    </ul>
-    <p>Taking a few minutes to sort clothes before washing can maintain the appearance and longevity of your garments.</p>
+    <p>
+      Sorting clothes by color and fabric type is an essential step in the laundry process.
+    </p>
+    <p>
+      Here are the main reasons why sorting clothes is important:
+      <ul>
+        <li>
+          <p>
+            <b>Prevents color bleeding:</b> Washing dark or bright colors with whites can cause color transfer, causing staining and dulling of lighter clothes.
+          </p>
+          <p>
+            <image href="../assets/images/How-to-remove-color-bleeding-from-clothes.jpg" alt="Color bleeding example"/>
+          </p>
+        </li>
+        <li>
+          <p>
+            <b>Preserves fabric quality:</b> Sorting allows for gentle washing of delicate fabrics and helps prevent shrinkage/damage caused by heavier items.
+          </p>
+          <p>
+            <image href="../assets/images/shrunk.jpg" alt="Example of clothes shrunk from improper washing"/>
+          </p>
+        </li>
+        <li><b>Ensures effective cleaning:</b> Dirtier clothes need more detergent or a longer washing cycle, while lightly soiled clothes can be washed with a shorter cycle.
+        </li>
+      </ul>
+    </p>
+    <p>
+      Taking a few minutes to sort clothes before washing can maintain the appearance and longevity of your garments.
+    </p>
   </conbody>
 </concept>

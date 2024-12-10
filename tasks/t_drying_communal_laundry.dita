@@ -7,7 +7,9 @@
   </shortdesc>
   <taskbody>
     <prereq>
-      <p id="dry-prereq">Residents must use their own dryer sheets or wool balls.</p>
+      <p id="dry-prereq">
+        Residents must use their own dryer sheets or wool balls.
+      </p>
     </prereq>
     <steps>
       <step id="dry-load">

@@ -10,7 +10,8 @@
   </prolog>
   <taskbody>
     <prereq>
-      <p>Materials needed:
+      <p>
+        Materials needed:
         <ul>
           <li>Heavy-duty laundry detergent</li>
           <li>Enzyme-based stain remover (spray or gel)</li>
@@ -64,7 +65,7 @@
     </steps>
     <postreq>
       <p>
-        <note type="attention">Do not use a dryer until the stain is fully removed. Heat can make the stain permanent.</note>
+        <note type="attention" id="stain-dry">Do not use a dryer until the stain is fully removed. Heat can make the stain permanent.</note>
       </p>
     </postreq>
   </taskbody>

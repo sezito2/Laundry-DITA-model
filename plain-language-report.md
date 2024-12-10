@@ -1,0 +1,3 @@
+The summary report should review the most significant aspects that you edited, revised, and redesigned throughout the model. (See the rubric for criteria.)
+Provide examples that can either use (1) representative excerpt linked to a particular file in the repo, (2) screenshot images for comparison, and/or (3) links directly to pull requests.
+At the top of the file, please provide a shareable link to your Google Doc version of your style guide.
