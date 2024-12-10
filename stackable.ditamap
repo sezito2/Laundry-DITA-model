@@ -5,8 +5,10 @@
   <topicref type="concept" href="concepts\c_care_labels.dita" navtitle="Understanding Care Labels">
     <topicref type="concept" href="concepts\c_importance_of_sorting_clothes.dita" navtitle="Importance of Sorting Clothes"/>
   </topicref>
-  <topicref type="task" href="tasks\t_how_to_remove_coffee.dita" navtitle="How to Remove Coffee Stains"/>
-  <topicref type="task" href="tasks\t_how_to_remove_oil.dita" navtitle="How to Remove Oil-Based Stains"/>
+  <topicref type="concept" href="concepts\c_stain_science.dita" navtitle="The Science of Stain Removal">
+    <topicref type="task" href="tasks\t_how_to_remove_coffee.dita" navtitle="How to Remove Coffee Stains"/>
+    <topicref type="task" href="tasks\t_how_to_remove_oil.dita" navtitle="How to Remove Oil-Based Stains"/>
+  </topicref>
   <topicref type="task" href="tasks\t_how_to_wash_with_stackable_machines.dita" navtitle="How to Wash Clothes in Stackables">
     <topicref type="reference" href="references\r_laundry_icons_wash.dita" navtitle="Wash Icons on Clothing Tags"/>
   </topicref>
