@@ -6,6 +6,7 @@
     <topicref type="task" href="tasks\t_how_to_remove_coffee.dita" navtitle="How to Remove Coffee Stains"/>
     <topicref type="task" href="tasks\t_how_to_remove_oil.dita" navtitle="How to Remove Oil-Based Stains"/>
     <topicref type="concept" href="concepts\c_importance_of_sorting_clothes.dita" navtitle="Importance of Sorting Clothes">
+      <topicref type="task" href="tasks\t_fabric_types.dita" navtitle="Caring for Different Fabric Types"/>
       <topicref type="reference" href="references\r_laundry_icons_wash.dita" navtitle="Wash icons on clothing tags"/>
       <topicref type="reference" href="references\r_laundry_icons_dry.dita" navtitle="Dry icons on clothing tags"/>
     </topicref>
