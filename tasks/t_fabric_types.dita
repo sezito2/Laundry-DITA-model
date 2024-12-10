@@ -2,23 +2,22 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_fabric_types">
   <title>Fabric Types</title>
-  <shortdesc>Choose the best washing method based on water temperature and fabric type.</shortdesc>
+  <shortdesc>Selecting the correct washing method is essential to preserve fabric quality and maintain its appearance.</shortdesc>
   <taskbody>
-    <context>Select the appropriate washing method to preserve fabric quality and maintain its appearance.</context>
-    <steps-unordered>
+    <steps>
       <step>
-        <cmd>Identify the fabric type you are washing.</cmd>
+        <cmd>Identify the type of fabric.</cmd>
         <substeps>
           <substep importance="required">
-            <cmd>Determine whether the fabric is natural (e.g., silk, wool, cotton) or synthetic (e.g., polyester, nylon).</cmd>
+            <cmd>Determine whether the fabric is natural (ex. silk, wool, cotton) or synthetic (ex. polyester, nylon).</cmd>
           </substep>
           <substep importance="optional">
-            <cmd>Consider any specific fabric care instructions provided on the label.</cmd>
+            <cmd>Find any specific fabric care instructions listed on the care label.</cmd>
           </substep>
         </substeps>
       </step>
       <step>
-        <cmd>Choose the appropriate water temperature.</cmd>
+        <cmd>Select the appropriate water temperature.</cmd>
         <choicetable>
           <chhead>
             <choptionhd>Water Temperature</choptionhd>
@@ -33,8 +32,11 @@
             </chrow>
           <chrow>
             <choption>Warm</choption>
-            <chdesc>Cotton, Polyester <image href="../assets/images/cotton.jpg" alt="Cotton"/> <image href="../assets/images/polyester.jpg" alt="Polyester"/></chdesc>
-            </chrow>
+            <chdesc>Cotton, Polyester 
+              <image href="../assets/images/cotton.jpg" alt="Cotton"/>
+              <image href="../assets/images/polyester.jpg" alt="Polyester"/>
+            </chdesc>
+          </chrow>
           <chrow>
             <choption>Hot</choption>
             <chdesc>Sturdy Cotton, Polyester</chdesc>
@@ -43,15 +45,13 @@
       </step>
       <step>
         <cmd>Follow fabric-specific recommendations for washing.</cmd>
-        <substeps>
-          <substep importance="required">
-            <cmd>Use a mild detergent for delicate fabrics like silk or wool.</cmd>
-          </substep>
-          <substep importance="optional">
-            <cmd>Air dry or use a low heat setting for sensitive fabrics to avoid damage.</cmd>
-          </substep>
-        </substeps>
+        <info>
+          <note type="tip">Use a gentle detergent for delicate fabrics like silk or wool.</note>
+        </info>
       </step>
-    </steps-unordered>
+      <step importance="optional">
+        <cmd>Air dry or use a low-heat setting for sensitive fabrics to avoid damage.</cmd>
+      </step>
+    </steps>
   </taskbody>
 </task>
