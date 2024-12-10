@@ -7,7 +7,7 @@
   <taskbody>
     <context>
       <image href="../assets/images/etiquette.jpg" alt="NC State laundry room"/>
-      <p>Here are some things to keep in mind while using the shared laundry rooms:</p>
+      <p>Keep in mind etiquette rules while using the shared laundry rooms:</p>
     </context>
     <steps-unordered>
       <step><cmd>Be timely in removing clothes from washers and dryers</cmd>
@@ -16,7 +16,7 @@
           <substep><cmd>Set a timer on your phone to keep track of time</cmd></substep>
         </substeps>
       </step>
-      <step><cmd>Do no use an excessive amount of machines during peak hours</cmd>
+      <step><cmd>Do not use an excessive amount of machines during peak hours</cmd>
         <info><p>Peak hours include weekdays after 3pm and weekends</p></info>
       </step>
       <step><cmd>Clean out your lint trap</cmd></step>
