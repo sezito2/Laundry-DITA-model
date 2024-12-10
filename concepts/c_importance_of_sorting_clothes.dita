@@ -3,26 +3,21 @@
 <concept id="c_importance_of_sorting_clothes">
   <title>Importance of sorting clothes</title>
   <shortdesc audience="novice">
-  Clothes made from different fabrics react differently to washing conditions. For example, natural fibers like cotton and wool are prone to shrinkage in hot water, whereas synthetic fibers like polyester are more heat-resistant.  Sorting clothes before washing helps prevent damage, preserves fabric quality, and maintains colors.
+  Fabrics react differently to washing conditions. Sorting clothes before washing helps prevent damage, preserves fabric quality, and maintains colors.
   </shortdesc>
   <conbody>
-    <p>Sorting clothes by color and fabric type is an essential step in the laundry process. Proper sorting prevents color bleeding, fabric damage, and ensures that each item is washed at the optimal temperature and detergent setting.</p>
+    <p>Sorting clothes by color and fabric type is an essential step in the laundry process.</p>
     <p>Here are the main reasons why sorting clothes is important:</p>
     <ul>
-      <li>
-        <p>Prevents color bleeding: Washing dark or bright colors with whites can cause color transfer, leading to staining and dulling of lighter clothes.</p>
+      <li><b>Prevents color bleeding:</b> Washing dark or bright colors with whites can cause color transfer, causing staining and dulling of lighter clothes.
         <image href="../assets/images/How-to-remove-color-bleeding-from-clothes.jpg" alt="Color bleeding example"/>
       </li>
-      <li>
-        <p>
-          Preserves fabric quality: Sorting by fabric type, such as delicates and heavy items, allows for gentle washing of delicate fabrics and helps prevent shrinkage and damage caused by rougher items.
-        </p>
-        <image href="...assets/images/laundry_myths_shrunk_clothes_183oopi-183oopk.jpg" alt="Example of clothes shrunk from improper washing"/>
+      <li><b>Preserves fabric quality:</b> Sorting allows for gentle washing of delicate fabrics and helps prevent shrinkage/damage caused by heavier items.
+        <image href="..assets/images/laundry_myths_shrunk_clothes_183oopi-183oopk.jpg" alt="Example of clothes shrunk from improper washing"/>
       </li>
-      <li>
-        <p>Ensures effective cleaning: Heavily soiled items may need more detergent or a different washing cycle, while lightly soiled clothes can be washed with a shorter or gentler cycle.</p>
+      <li><b>Ensures effective cleaning:</b> Dirtier clothes need more detergent or a longer washing cycle, while lightly soiled clothes can be washed with a shorter cycle.
       </li>
     </ul>
-    <p>By taking a few minutes to sort clothes before washing, you can maintain the appearance and longevity of your garments, saving time and money in the long run.</p>
+    <p>Taking a few minutes to sort clothes before washing can maintain the appearance and longevity of your garments.</p>
   </conbody>
 </concept>
