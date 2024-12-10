@@ -2,7 +2,9 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t_fabric_types">
   <title>Fabric Types</title>
-  <shortdesc>Selecting the correct washing method is essential to preserve fabric quality and maintain its appearance.</shortdesc>
+  <shortdesc>
+    Selecting the correct washing method is essential to preserve fabric quality and maintain its appearance.
+  </shortdesc>
   <taskbody>
     <steps>
       <step>
