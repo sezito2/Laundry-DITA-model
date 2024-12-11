@@ -21,3 +21,8 @@ The revised <choice> statements follow a similar structure, which improves the o
 ![Image 2 - The original and revised `<p>` comparison](assets/images/Screenshot%202024-12-10%20164846.png)
 ![Image 3 - The original and revised `<choice>` comparison](assets/images/Screenshot%202024-12-10%20165135.png)
 
+### Drying Clothes in University Laundry Machines
+- Commands like "Load wet clothes into the dryer drum" and "Close the dryer door" are concise and direct, following the plain language principle of focusing on the main action.
+- Notes like "Check the lint trap to ensure it is clean" provide essential safety information without overloading the main instruction.
+- The file avoids deixis (e.g., "as described above") and relies on explicit commands, which improves clarity and reusability.
+- Elements like <shortdesc> and <postreq> use conref to link to reusable content.
