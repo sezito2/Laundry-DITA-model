@@ -26,3 +26,7 @@ The revised <choice> statements follow a similar structure, which improves the o
 - Notes like "Check the lint trap to ensure it is clean" provide essential safety information without overloading the main instruction.
 - The file avoids deixis (e.g., "as described above") and relies on explicit commands, which improves clarity and reusability.
 - Elements like <shortdesc> and <postreq> use conref to link to reusable content.
+
+### Laundry Etiquette 
+- Steps with multiple parts, such as handling another resident's laundry, are broken into substeps, making the instructions easier to follow.
+- Instructions like "Give other residents a 15-20 minute grace period" clearly outline expectations for respectful behavior.
